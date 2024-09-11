@@ -1,0 +1,47 @@
+body{
+  background:linear-gradient(#00a1ff,#00ff8f);
+}
+
+.home{
+  text-align: center;
+}
+
+h1{
+  font-size: 70px;
+  color: #e0dc0a;
+}
+
+.themes{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 1000px;
+  margin: 0 auto;
+  margin-top: 70px;
+
+}
+
+.themebtn{
+  width: 200px;
+  height: 50;
+  margin: 10px;
+  font-size: 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+select{
+  text-align: center;
+  width: 70px;
+  height: 40px;
+  font-size: 20px;
+  margin: 10px;
+  border: 2px solid gray;
+  border-radius: 5px;
+}
+
+.validate button{
+  width: 200px;
+  border: 2px solid green;
+  border-radius: 5px;
+}

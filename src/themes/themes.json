@@ -1,0 +1,4606 @@
+{
+    "art": [
+        {
+            "word": "abstract",
+            "definition": "Art that does not attempt to represent an accurate depiction of a visual reality but instead uses shapes, colors, forms, and gestural marks to achieve its effect."
+          },
+          {
+            "word": "canvas",
+            "definition": "A piece of cloth or other material on which a painting is made."
+          },
+          {
+            "word": "composition",
+            "definition": "The arrangement of elements in a work of art, including the use of line, shape, color, texture, and space."
+          },
+          {
+            "word": "expressionism",
+            "definition": "A modernist movement, initially in poetry and painting, originating in Germany at the beginning of the 20th century. It sought to express the emotional experience of the modern individual."
+          },
+          {
+            "word": "impressionism",
+            "definition": "A 19th-century art movement that originated with a group of Paris-based artists. They were characterized by their use of visible brushstrokes and their focus on capturing the changing effects of light."
+          },
+          {
+            "word": "sculpture",
+            "definition": "The art of creating three-dimensional forms, either by carving or modeling materials such as stone, metal, or clay."
+          },
+          {
+            "word": "acrylic",
+            "definition": "A type of fast-drying paint made of pigment suspended in acrylic polymer emulsion."
+          },
+          {
+            "word": "baroque",
+            "definition": "A style of art, architecture, and music characterized by elaborate ornamentation, curved forms, and dramatic contrasts of light and shadow."
+          },
+          {
+            "word": "calligraphy",
+            "definition": "The art of decorative handwriting, often using a pen or brush to create stylized lettering and ornamental designs."
+          },
+          {
+            "word": "dadaism",
+            "definition": "An artistic movement that emerged in Europe during World War I, characterized by a rejection of traditional values and a focus on absurdity, irony, and irrationality."
+          },
+          {
+            "word": "engraving",
+            "definition": "The art of cutting or incising a design into a hard surface, such as metal or wood, to create a printed image."
+          },
+          {
+            "word": "fauvism",
+            "definition": "An early 20th-century art movement characterized by its use of bright colors, bold brushstrokes, and simplified forms."
+          },
+          {
+            "word": "graffiti",
+            "definition": "Writing or drawings scribbled, scratched, or sprayed illicitly on a wall or other surface in a public place."
+          },
+          {
+            "word": "hue",
+            "definition": "A color or shade, often used to refer to the dominant color in a painting or work of art."
+          },
+          {
+            "word": "installation",
+            "definition": "A work of art created by arranging objects, materials, or other elements in a specific location or environment."
+          },
+          {
+            "word": "mural",
+            "definition": "A large painting or other artwork applied directly to a wall, ceiling, or other large surface."
+          },
+          {
+            "word": "photography",
+            "definition": "The art or practice of taking and processing photographs."
+          },
+          {
+            "word": "pop art",
+            "definition": "(two word)An art movement that emerged in the 1950s and 1960s, characterized by the use of popular images and cultural artifacts in art, often with a sense of irony or commentary."
+          },
+          {
+            "word": "realism",
+            "definition": "An artistic and literary movement that sought to represent the world as it really is, without idealization or stylization."
+          },
+          {
+            "word": "surrealism",
+            "definition": "An artistic and literary movement that sought to explore the workings of the subconscious mind, often characterized by dreamlike or fantastical imagery."
+          },
+          {
+            "word": "watercolor",
+            "definition": "A type of paint made from a water-soluble pigment, often used for delicate or transparent effects in painting."
+          },
+          {
+            "word": "woodcut",
+            "definition": "A type of printmaking technique in which a design is carved into a block of wood, which is then inked and printed onto paper or other materials."
+          },
+          {
+            "word": "abstraction",
+            "definition": "The process or result of distilling the essential qualities of something into a simplified or abstract form, often used in reference to art."
+          },
+          {
+            "word": "performance art",
+            "definition": "(two words)An art form that involves the creation of a live performance or event, often incorporating elements of theater, dance, and music."
+          },
+          {
+            "word": "neoclassicism",
+            "definition": "An artistic and architectural movement that emerged in the 18th century, characterized by a return to the principles and forms of classical Greek and Roman art."
+          }
+    ],
+        "celebration": [
+            {"word": "anniversary", "definition": "The date on which an event took place in a previous year."},
+            {"word": "balloons", "definition": "Inflatable decorations, often made of rubber or latex and filled with air or helium."},
+            {"word": "banner", "definition": "A long strip of cloth or paper with a message or design, often hung up as a decoration."},
+            {"word": "cake", "definition": "A sweet baked dessert often served at celebrations, typically made of flour, sugar, and eggs."},
+            {"word": "candles", "definition": "A cylindrical piece of wax with a wick in the middle, used for giving light, especially during celebrations."},
+            {"word": "champagne", "definition": "A type of sparkling wine made from grapes grown in the Champagne region of France."},
+            {"word": "confetti", "definition": "Small pieces of brightly colored paper or plastic, often thrown during celebrations."},
+            {"word": "decorations", "definition": "Items used to adorn or beautify a space for a special occasion or celebration."},
+            {"word": "fireworks", "definition": "Explosive devices that produce colorful displays of light and sound, often used to celebrate holidays or special occasions."},
+            {"word": "flowers", "definition": "The reproductive structure of flowering plants, often used as decoration for special occasions."},
+            {"word": "gifts", "definition": "Something given to someone as a present, especially on a special occasion such as a birthday or holiday."},
+            {"word": "holiday", "definition": "A day of celebration or commemoration, typically recognized by law or tradition."},
+            {"word": "invitations", "definition": "A written or verbal request inviting someone to go somewhere or to do something, especially to attend a special event."},
+            {"word": "music", "definition": "A form of artistic expression that uses sound and rhythm to convey emotion and meaning, often played at celebrations."},
+            {"word": "parade", "definition": "A procession of people or vehicles, often to celebrate a special occasion or event."},
+            {"word": "party", "definition": "A social gathering of people for a celebration or other festive occasion."},
+            {"word": "presents", "definition": "Another word for 'gifts', something given to someone as a present, especially on a special occasion."},
+            {"word": "streamers", "definition": "Long, narrow strips of colored paper or plastic, often hung up as a decoration for celebrations."},
+            {"word": "surprise", "definition": "An unexpected or astonishing event or situation, often used to create excitement or joy during celebrations."},
+            {"word": "toast", "definition": "A ritual in which people raise their glasses and drink to honor or celebrate someone or something."},
+            {"word": "tradition", "definition": "A long-established custom or belief that is passed down from generation to generation, often associated with celebrations."},
+            {"word": "treats", "definition": "Delicious snacks or sweets, often served at celebrations."},
+            {"word": "wedding", "definition": "A ceremony in which two people are united in marriage, often celebrated with a reception or party."}
+    ],
+    "cinema": [
+      {
+        "word": "actor",
+        "definition": "a person who performs in plays, movies, or television shows"
+      },
+      {
+        "word": "director",
+        "definition": "the person who controls the making of a film and supervises the actors, camera crew, and other staff"
+      },
+      {
+        "word": "screenplay",
+        "definition": "the script or written text of a movie, including dialogue and descriptions of characters and sets"
+      },
+      {
+        "word": "cinematography",
+        "definition": "the art and technique of film photography, including camera movement, framing, lighting, and other visual effects"
+      },
+      {
+        "word": "sequel",
+        "definition": "a movie or book that continues the story or characters from a previous one"
+      },
+      {
+        "word": "prequel",
+        "definition": "a movie or book that tells the story that happened before a previous one"
+      },
+      {
+        "word": "villain",
+        "definition": "the main bad character in a movie, novel, or play"
+      },
+      {
+        "word": "hero",
+        "definition": "the main good character in a movie, novel, or play"
+      },
+      {
+        "word": "soundtrack",
+        "definition": "the music or songs that appear in a movie, often released as a separate album"
+      },
+      {
+        "word": "animation",
+        "definition": "the technique of creating the illusion of motion and change by rapidly displaying a sequence of static images that minimally differ from each other"
+      },
+      {
+        "word": "Oscar",
+        "definition": "an annual American awards ceremony honoring outstanding achievements in the movie industry"
+      },
+      {
+        "word": "blockbuster",
+        "definition": "a movie or other entertainment product that is very successful and makes a lot of money"
+      },
+      {
+        "word": "CGI",
+        "definition": "computer-generated imagery, the use of computer graphics to create or enhance visual elements in movies and other media"
+      },
+      {
+        "word": "reboot",
+        "definition": "a new version of a movie, TV show, or other entertainment property, with a new cast, crew, or storyline"
+      },
+      {
+        "word": "rom-com",
+        "definition": "a romantic comedy movie, a movie that combines elements of romance and comedy"
+      },
+      {
+        "word": "trilogy",
+        "definition": "a group of three related novels, movies, or other works"
+      },
+      {
+        "word": "spoiler",
+        "definition": "a piece of information about the plot or ending of a movie or book that may spoil the surprise or suspense for viewers or readers"
+      },
+      {
+        "word": "mystery",
+        "definition": "a genre of fiction, often in the form of a detective story, that involves a puzzle or crime to be solved"
+      },
+      {
+        "word": "sci-fi",
+        "definition": "science fiction, a genre of speculative fiction that deals with imaginative and futuristic concepts such as advanced science and technology, space exploration, time travel, parallel universes, and extraterrestrial life"
+      },
+        {
+            "word": "horror",
+            "definition": "a genre of fiction that is intended to frighten, scare, or disgust the audience"
+        },
+        {
+            "word": "thriller",
+            "definition": "a genre of fiction that combines elements of mystery, suspense, and horror"
+        },
+        {
+            "word": "action",
+            "definition": "a genre of fiction that focuses on physical challenges and feats of daring, often involving violence"
+        },
+        {
+            "word": "comedy",
+            "definition": "a genre of fiction that is intended to make the audience laugh"
+        },
+        {
+            "word": "drama",
+            "definition": "a genre of fiction that is intended to be serious and to convey a message or lesson"
+        },
+        {
+            "word": "romance",
+            "definition": "a genre of fiction that focuses on love and relationships"
+        },
+        {
+            "word": "adventure",
+            "definition": "a genre of fiction that involves exciting and dangerous events"
+        },
+        {
+            "word": "fantasy",
+            "definition": "a genre of fiction that involves magic, supernatural forces, or other elements that are not realistic"
+        },
+        {
+            "word": "biography",
+            "definition": "a nonfiction book or movie that tells the story of a person's life"
+        },
+        {
+            "word": "autobiography",
+            "definition": "a nonfiction book or movie that tells the story of a person's life, written by that person"
+        },
+        {
+            "word": "memoir",
+            "definition": "a nonfiction book or movie that tells the story of a person's life, written by that person"
+        },
+        {
+            "word": "documentary",
+            "definition": "a nonfiction movie or TV show that tells a story about real people or events"
+        },
+        {
+            "word": "history",
+            "definition": "a nonfiction book or movie that tells the story of a person's life, written by that person"
+        },
+        {
+            "word": "nonfiction",
+            "definition": "a book or movie that tells a true story about real people or events"
+        },
+        {
+            "word": "fiction",
+            "definition": "a book or movie that tells a story about imaginary people or events"
+        }
+    ],
+    "city": [
+        {
+            "word": "state",
+            "definition": "A condition; a set of circumstances applying at any given time."
+        },
+        {
+            "word": "city",
+            "definition": "A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place."
+        },
+        {
+            "word": "place",
+            "definition": "(physical) An area; somewhere within an area."
+        },
+        {
+            "word": "area",
+            "definition": "A measure of the extent of a surface; it is measured in square units."
+        },
+        {
+            "word": "york",
+            "definition": "To bowl a yorker at a batsman, especially to get a batsman out in this way."
+        },
+        {
+            "word": "district",
+            "definition": "An administrative division of an area."
+        },
+        {
+            "word": "county",
+            "definition": "The land ruled by a count or a countess."
+        },
+        {
+            "word": "town",
+            "definition": "A settlement; an area with residential districts, shops and amenities, and its own local government; especially one larger than a village and smaller than a city."
+        },
+        {
+            "word": "village",
+            "definition": "A rural habitation of size between a hamlet and a town."
+        },
+        {
+            "word": "community",
+            "definition": "A group sharing a common understanding, and often the same language, law, manners, and/or tradition."
+        },
+        {
+            "word": "street",
+            "definition": "A paved part of road, usually in a village or a town."
+        },
+        {
+            "word": "station",
+            "definition": "A stopping place."
+        },
+        {
+            "word": "province",
+            "definition": "A region of the earth or of a continent; a district or country."
+        },
+        {
+            "word": "capital",
+            "definition": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures)."
+        },
+        {
+            "word": "transport",
+            "definition": "An act of transporting; conveyance."
+        },
+        {
+            "word": "mayor",
+            "definition": "The chief executive of the municipal government of a city, borough, &c., formerly usually appointed as a caretaker by European royal courts but now usually appointed or elected locally."
+        },
+        {
+            "word": "municipality",
+            "definition": "A district with a government that typically encloses no other governed districts; a borough, city, or incorporated town or village."
+        },
+        {
+            "word": "port",
+            "definition": "A place on the coast at which ships can shelter, or dock to load and unload cargo or passengers."
+        },
+        {
+            "word": "urban",
+            "definition": "Related to the (or any) city."
+        },
+        {
+            "word": "municipal",
+            "definition": "A financial instrument issued by a municipality."
+        },
+        {
+            "word": "airport",
+            "definition": "An airfield (an area designated for the takeoff and landing of aircraft), including one or more runways and (for commercial airports) one or more passenger terminals."
+        },
+        {
+            "word": "surrounding",
+            "definition": "To encircle something or simultaneously extend in all directions."
+        },
+        {
+            "word": "metropolitan",
+            "definition": "A bishop empowered to oversee other bishops; an archbishop."
+        },
+        {
+            "word": "firm",
+            "definition": "A business partnership; the name under which it trades."
+        },
+        {
+            "word": "metro",
+            "definition": "An underground railway."
+        },
+        {
+            "word": "township",
+            "definition": "The territory of a town."
+        },
+        {
+            "word": "downtown",
+            "definition": "The main business part of a city or town, usually located at or near its center."
+        },
+        {
+            "word": "borough",
+            "definition": "A fortified town."
+        },
+        {
+            "word": "neighborhood",
+            "definition": "The quality of being a neighbor, of living nearby, next to each-other; proximity."
+        },
+        {
+            "word": "suburb",
+            "definition": "A residential area located on the outskirts of a city or large town that usually includes businesses that cater to its residents; such as schools, grocery stores, shopping centers, restaurants, convenience stores, etc."
+        },
+        {
+            "word": "civilization",
+            "definition": "An organized culture encompassing many communities, often on the scale of a nation or a people; a stage or system of social, political or technical development."
+        },
+        {
+            "word": "mayoral",
+            "definition": "Relating to a mayor (or the office of the mayor)."
+        },
+        {
+            "word": "citywide",
+            "definition": "Throughout a city."
+        },
+        {
+            "word": "polis",
+            "definition": "A Greek city-state."
+        },
+        {
+            "word": "streetscape",
+            "definition": "The visual elements of a street, including the road, adjoining buildings, sidewalks, street furniture, trees and open spaces, etc, that combine to form the street's character."
+        },
+        {
+            "word": "conurbation",
+            "definition": "A continuous aggregation of built-up urban communities created as a result of urban sprawl."
+        },
+        {
+            "word": "megalopolis",
+            "definition": "A large conurbation, where two or more large cities have sprawled outward to meet, forming something larger than a metropolis; a megacity."
+        },
+        {
+            "word": "greenspace",
+            "definition": "An area of undeveloped landscape, such as park land left within a city during planning and zoning other areas for development."
+        },
+        {
+            "word": "concrete jungle",
+            "definition": "An urban or other populated area containing a high density of buildings constructed of concrete or similar materials, especially one which lacks greenery and which seems unattractive, harsh, or unsafe."
+        },
+        {
+            "word": "country",
+            "definition": "(chiefly British) An area of land; a district, region."
+        },
+        {
+            "word": "team",
+            "definition": "A set of draught animals, such as two horses in front of a carriage."
+        },
+        {
+            "word": "shadow",
+            "definition": "A dark image projected onto a surface where light (or other radiation) is blocked by the shade of an object."
+        },
+        {
+            "word": "market",
+            "definition": "A gathering of people for the purchase and sale of merchandise at a set time, often periodic."
+        },
+        {
+            "word": "colony",
+            "definition": "A governmental unit created on land of another country owned by colonists from a country."
+        },
+        {
+            "word": "region",
+            "definition": "Any considerable and connected part of a space or surface; specifically, a tract of land or sea of considerable but indefinite extent; a country; a district; in a broad sense, a place without special reference to location or extent but viewed as an entity for geographical, social or cultural reasons."
+        },
+        {
+            "word": "highway",
+            "definition": "A motor vehicle for transporting large numbers of people along roads."
+        },
+        {
+            "word": "rural",
+            "definition": "A person from the countryside; a rustic."
+        },
+        {
+            "word": "police",
+            "definition": "A civil force granted the legal authority for law enforcement and maintaining public order."
+        }
+    ],
+    "family": [
+        {
+            "word": "people",
+            "definition": "Used as plural of person; a body of human beings considered generally or collectively; a group of two or more persons."
+        },
+        {
+            "word": "family",
+            "definition": "A group of people who are closely related to one another (by blood, marriage or adoption); kin; for example, a set of parents and their children; an immediate family."
+        },
+        {
+            "word": "personal",
+            "definition": "An advertisement by which individuals attempt to meet others with similar interests."
+        },
+        {
+            "word": "home",
+            "definition": "A dwelling."
+        },
+        {
+            "word": "house",
+            "definition": "A structure built or serving as an abode of human beings."
+        },
+        {
+            "word": "son",
+            "definition": "One's male offspring."
+        },
+        {
+            "word": "children",
+            "definition": "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)"
+        },
+        {
+            "word": "father",
+            "definition": "A (generally human) male who begets a child."
+        },
+        {
+            "word": "wife",
+            "definition": "A married woman, especially in relation to her spouse."
+        },
+        {
+            "word": "love",
+            "definition": "Strong affection."
+        },
+        {
+            "word": "mother",
+            "definition": "A (human) female who has given birth to a baby"
+        },
+        {
+            "word": "daughter",
+            "definition": "One's female offspring."
+        },
+        {
+            "word": "brother",
+            "definition": "Son of the same parents as another person."
+        },
+        {
+            "word": "child",
+            "definition": "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)"
+        },
+        {
+            "word": "sister",
+            "definition": "A daughter of the same parents as another person; a female sibling."
+        },
+        {
+            "word": "friend",
+            "definition": "A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection."
+        },
+        {
+            "word": "husband",
+            "definition": "The master of a house; the head of a family; a householder."
+        },
+        {
+            "word": "relationship",
+            "definition": "Connection or association; the condition of being related."
+        },
+        {
+            "word": "spouse",
+            "definition": "A person in a marriage or marital relationship."
+        },
+        {
+            "word": "marriage",
+            "definition": "The state of being married."
+        },
+        {
+            "word": "couple",
+            "definition": "Two partners in a romantic or sexual relationship."
+        },
+        {
+            "word": "parent",
+            "definition": "One of the two persons from whom one is immediately biologically descended; a mother or father."
+        },
+        {
+            "word": "shared",
+            "definition": "To give part of what one has to somebody else to use or consume."
+        },
+        {
+            "word": "subfamily",
+            "definition": "A taxonomic category ranking between a family and a genus; formerly called a tribe"
+        },
+        {
+            "word": "family unit",
+            "definition": "A unit of people consisting of family members, distant or immediate."
+        },
+        {
+            "word": "folk",
+            "definition": "A grouping of smaller peoples or tribes as a nation."
+        },
+        {
+            "word": "household",
+            "definition": "Collectively, all the persons who live in a given house; a family including attendants, servants etc.; a domestic or family establishment."
+        },
+        {
+            "word": "tribe",
+            "definition": "A socially, ethnically, or politically cohesive group of people."
+        },
+        {
+            "word": "relative",
+            "definition": "Someone in the same family; someone connected by blood, marriage, or adoption."
+        },
+        {
+            "word": "uncle",
+            "definition": "The brother or brother-in-law of one\u2019s parent."
+        },
+        {
+            "word": "grandfather",
+            "definition": "A father of someone's parent."
+        },
+        {
+            "word": "cousin",
+            "definition": "The child of a person's uncle or aunt; a first cousin."
+        },
+        {
+            "word": "grandmother",
+            "definition": "A mother of someone's parent."
+        },
+        {
+            "word": "aunt",
+            "definition": "The sister or sister-in-law of one's parent."
+        },
+        {
+            "word": "niece",
+            "definition": "A daughter of one's sibling, brother-in-law, or sister-in-law; either a daughter of one's brother (fraternal niece) or a daughter of one's sister (sororal niece)."
+        },
+        {
+            "word": "granddaughter",
+            "definition": "A daughter of one's child."
+        },
+        {
+            "word": "youngest",
+            "definition": "The youngest child in a family, or individual in a group."
+        },
+        {
+            "word": "eldest",
+            "definition": "The eldest child in a family, or individual in a group."
+        },
+        {
+            "word": "grandson",
+            "definition": "A son of one's child."
+        },
+        {
+            "word": "nephew",
+            "definition": "A son of one's sibling, brother-in-law, or sister-in-law; either a son of one's brother (fraternal nephew) or a son of one's sister (sororal nephew)."
+        },
+        {
+            "word": "fellowship",
+            "definition": "A company of people that share the same interest or aim."
+        },
+        {
+            "word": "loved",
+            "definition": "(usually transitive, sometimes intransitive, stative) To have a strong affection for (someone or something)."
+        },
+        {
+            "word": "clan",
+            "definition": "A group of people all descended from a common ancestor, in fact or belief."
+        },
+        {
+            "word": "aunt",
+            "definition": "The sister or sister-in-law of one\u2019s parent."
+        },
+        {
+            "word": "grandmother",
+            "definition": "A mother of someone's parent."
+        },
+        {
+            "word": "dad",
+            "definition": "A father, a male parent."
+        },
+        {
+            "word": "granddaughter",
+            "definition": "The daughter of someone's child."
+        },
+        {
+            "word": "mom",
+            "definition": "(familiar) mother."
+        },
+        {
+            "word": "lineage",
+            "definition": "Descent in a line from a common progenitor; progeny; descending line of offspring or ascending line of parentage."
+        },
+        {
+            "word": "niece",
+            "definition": "A daughter of one\u2019s sibling, brother-in-law, or sister-in-law; either the daughter of one's brother (\"fraternal niece\"), or of one's sister (\"sororal niece\")."
+        },
+        {
+            "word": "ancestor",
+            "definition": "One from whom a person is descended, whether on the father's or mother's side, at any distance of time; a progenitor; a forefather."
+        },
+        {
+            "word": "neighbor",
+            "definition": "A person living on adjacent or nearby land; a person situated adjacently or nearby; anything (of the same type of thing as the subject) in an adjacent or nearby position."
+        },
+        {
+            "word": "kin",
+            "definition": "Race; family; breed; kind."
+        },
+        {
+            "word": "sibling",
+            "definition": "A person who shares a parent; one's brother or sister who one shares a parent with."
+        },
+        {
+            "word": "stepfather",
+            "definition": "The husband of one's biological mother, other than one's biological father, especially following the divorce or death of the father."
+        },
+        {
+            "word": "kinship",
+            "definition": "Relation or connection by blood, marriage or adoption"
+        },
+        {
+            "word": "stepmother",
+            "definition": "The wife of one's biological father, other than one's biological mother."
+        },
+        {
+            "word": "grandma",
+            "definition": "Grandmother"
+        },
+        {
+            "word": "sib",
+            "definition": "Having kinship or relationship; related by same-bloodedness; having affinity; being akin; kindred."
+        },
+        {
+            "word": "extended family",
+            "definition": "A family consisting of parents and children, along with either grandparents, grandchildren, aunts or uncles, cousins, etc."
+        },
+        {
+            "word": "stepson",
+            "definition": "The son of one's spouse, but not one's own child."
+        },
+        {
+            "word": "family law",
+            "definition": "The area of private law pertaining to family matters and domestic relations."
+        },
+        {
+            "word": "stepdaughter",
+            "definition": "The daughter of one's spouse and not of oneself."
+        },
+        {
+            "word": "grandparent",
+            "definition": "To be, or act as, a grandfather to."
+        },
+        {
+            "word": "nuclear family",
+            "definition": "A family unit consisting of two parents (traditionally a mother and a father) and their children."
+        },
+        {
+            "word": "stepsister",
+            "definition": "The daughter of one's stepparent who is not the daughter of either of one's parents."
+        },
+        {
+            "word": "stepbrother",
+            "definition": "The son of one's stepparent who is not the son of either of one's biological parents."
+        },
+        {
+            "word": "consanguinity",
+            "definition": "A consanguineous or family relationship through parentage or descent. A blood relationship."
+        },
+        {
+            "word": "grandaunt",
+            "definition": "A sister of grandparent"
+        },
+        {
+            "word": "individual",
+            "definition": "A person considered alone, rather than as belonging to a group of people."
+        },
+        {
+            "word": "unfathered",
+            "definition": "To cause someone to become less of a father."
+        },
+        {
+            "word": "gift",
+            "definition": "Something given to another voluntarily, without charge."
+        },
+        {
+            "word": "partner",
+            "definition": "Someone who is associated with another in a common activity or interest."
+        },
+        {
+            "word": "baby",
+            "definition": "A very young human, particularly from birth to a couple of years old or until walking is fully mastered."
+        },
+        {
+            "word": "someone",
+            "definition": "A partially specified but unnamed person."
+        },
+        {
+            "word": "support",
+            "definition": "(sometimes attributive) Something which supports."
+        },
+        {
+            "word": "bruvver",
+            "definition": "Son of the same parents as another person."
+        }
+    ],
+    "fauna": [
+        {
+            "word": "life",
+            "definition": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living."
+        },
+        {
+            "word": "wild",
+            "definition": "The undomesticated state of a wild animal"
+        },
+        {
+            "word": "fish",
+            "definition": "A cold-blooded vertebrate animal that lives in water, moving with the help of fins and breathing with gills."
+        },
+        {
+            "word": "animal",
+            "definition": "In scientific usage, a multicellular organism that is usually mobile, whose cells are not encased in a rigid cell wall (distinguishing it from plants and fungi) and which derives energy solely from the consumption of other organisms (distinguishing it from plants)."
+        },
+        {
+            "word": "adult",
+            "definition": "A fully grown human or animal."
+        },
+        {
+            "word": "bird",
+            "definition": "A member of the class of animals Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, and laying eggs."
+        },
+        {
+            "word": "flora",
+            "definition": "Plants considered as a group, especially those of a particular country, region, time, etc."
+        },
+        {
+            "word": "habitat",
+            "definition": "Conditions suitable for an organism or population of organisms to live."
+        },
+        {
+            "word": "birds",
+            "definition": "A member of the class of animals Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, and laying eggs."
+        },
+        {
+            "word": "wildlife",
+            "definition": "Animals, plants, and fungi, not normally domesticated, often to the exclusion of plants, fungi, fish, insects and other invertebrates, and microscopic plants and animals; hence:"
+        },
+        {
+            "word": "ecology",
+            "definition": "The branch of biology dealing with the relationships of organisms with their environment and with each other."
+        },
+        {
+            "word": "beast",
+            "definition": "Any animal other than a human; usually only applied to land vertebrates, especially large or dangerous four-footed ones."
+        },
+        {
+            "word": "biodiversity",
+            "definition": "The diversity (number and variety of species) of plant and animal life within a region."
+        },
+        {
+            "word": "wilderness",
+            "definition": "An unsettled and uncultivated tract of land in its natural state; a barren land; a wild or waste."
+        },
+        {
+            "word": "vegetation",
+            "definition": "Plants, taken collectively."
+        },
+        {
+            "word": "zoology",
+            "definition": "The part of biology relating to the animal kingdom, including the structure, embryology, evolution, classification, habits, and distribution of all animals, both living and extinct."
+        },
+        {
+            "word": "creature",
+            "definition": "A living being; an animal or (sometimes derogatory) a human."
+        },
+        {
+            "word": "paleontology",
+            "definition": "Study of the forms of life existing in prehistoric or geologic times, especially as represented by fossils."
+        },
+        {
+            "word": "ecosystem",
+            "definition": "A system formed by an ecological community and its environment that functions as a unit."
+        },
+        {
+            "word": "archeological",
+            "definition": "Relating to the science or research of archaeology."
+        },
+        {
+            "word": "nature reserve",
+            "definition": "An area of land managed to conserve wildlife or plant habitat or other natural features."
+        },
+        {
+            "word": "organism",
+            "definition": "A discrete and complete living thing, such as animal, plant, fungus or microorganism."
+        },
+        {
+            "word": "birdlife",
+            "definition": "The birds (e.g. of an area) collectively."
+        },
+        {
+            "word": "amphibian",
+            "definition": "An animal of the Amphibia; any four-legged vertebrate that does not have amniotic eggs, living both on land and in water."
+        },
+        {
+            "word": "rainforest",
+            "definition": "A forest in a climate with high annual rainfall and no dry season."
+        },
+        {
+            "word": "invertebrates",
+            "definition": "An animal without vertebrae, i.e. backbone."
+        },
+        {
+            "word": "ecosystems",
+            "definition": "A system formed by an ecological community and its environment that functions as a unit."
+        },
+        {
+            "word": "biota",
+            "definition": "The living organisms of a region."
+        },
+        {
+            "word": "flowering plants",
+            "definition": "Any plant that produces flowers and fruit; an angiosperm."
+        },
+        {
+            "word": "reefs",
+            "definition": "A chain or range of rocks, sand, or coral lying at or near the surface of the water."
+        },
+        {
+            "word": "invertebrate",
+            "definition": "An animal without vertebrae, i.e. backbone."
+        },
+        {
+            "word": "ferns",
+            "definition": "Any of a group of some twenty thousand species of vascular plants classified in the division Pteridophyta that lack seeds and reproduce by shedding spores to initiate an alternation of generations."
+        },
+        {
+            "word": "toad",
+            "definition": "An amphibian, a kind of frog (order Anura) with shorter hindlegs and a drier, wartier skin, many in family Bufonidae."
+        },
+        {
+            "word": "tame",
+            "definition": "To make (an animal) tame; to domesticate."
+        },
+        {
+            "word": "assemblage",
+            "definition": "The process of assembling or bringing together."
+        },
+        {
+            "word": "ornithologist",
+            "definition": "A person who studies or practices ornithology."
+        },
+        {
+            "word": "brute",
+            "definition": "An animal seen as being without human reason; a senseless beast."
+        },
+        {
+            "word": "coral reefs",
+            "definition": "A reef formed by compacted coral skeletons"
+        },
+        {
+            "word": "crocodiles",
+            "definition": "Any of the predatory amphibious reptiles of the family Crocodylidae; a crocodilian, any species of the order Crocodilia, which also includes the alligators, caimans and gavials."
+        },
+        {
+            "word": "salt marsh",
+            "definition": "A marsh of saline water, found in the intertidal zone between land and sea, characterized by halophytic plants such as grasses and sedges adapted to periodic flooding with salt water."
+        },
+        {
+            "word": "cacti",
+            "definition": "Any member of the family Cactaceae, a family of flowering New World succulent plants suited to a hot, semi-desert climate."
+        },
+        {
+            "word": "zooplankton",
+            "definition": "Free-floating small protozoa, crustaceans (such as krill), etc. and the eggs and larvae from larger animals."
+        },
+        {
+            "word": "faun",
+            "definition": "A woodland creature with pointed ears, legs, and short horns of a goat and a fondness for unrestrained revelry."
+        },
+        {
+            "word": "songbirds",
+            "definition": "A bird having a melodious song or call."
+        },
+        {
+            "word": "herbivore",
+            "definition": "An organism that feeds chiefly on plants; an animal that feeds on herbage or vegetation as the main part of its diet."
+        },
+        {
+            "word": "tortoises",
+            "definition": "Any of various land-dwelling reptiles, of the family Testudinidae or the order Testudines , whose body is enclosed in a shell (carapace plus plastron). The animal can withdraw its head and four legs partially into the shell, providing some protection from predators."
+        },
+        {
+            "word": "chordate",
+            "definition": "A member of the phylum Chordata; numerous animals having a notochord at some stage of their development; in vertebrates this develops into the spine"
+        },
+        {
+            "word": "avifauna",
+            "definition": "The birds, or all the kinds of birds, inhabiting a region."
+        },
+        {
+            "word": "critter",
+            "definition": "(usually affectionate) A creature, an animal."
+        },
+        {
+            "word": "critters",
+            "definition": "(usually affectionate) A creature, an animal."
+        },
+        {
+            "word": "waterbird",
+            "definition": "Any bird that inhabits a freshwater environment."
+        },
+        {
+            "word": "omnivore",
+            "definition": "An animal which is able to consume both plants (like a herbivore) and meat (like a carnivore)."
+        },
+        {
+            "word": "metazoan",
+            "definition": "Any animal that undergoes development from an embryo stage with three tissue layers, namely the ectoderm, mesoderm, and endoderm."
+        },
+        {
+            "word": "domesticate",
+            "definition": "An animal or plant that has been domesticated."
+        },
+        {
+            "word": "epizootic",
+            "definition": "An occurrence of a disease or disorder in a population of non-human animals at a frequency higher than that expected in a given time period. Compare epidemic."
+        },
+        {
+            "word": "varmint",
+            "definition": "A pestering animal such as one that kills or harasses a farmer's livestock or crops."
+        },
+        {
+            "word": "poikilotherm",
+            "definition": "A cold-blooded animal"
+        },
+        {
+            "word": "mammal",
+            "definition": "Any of the class Mammalia, a class of warm-blooded vertebrates having hair, a mammary gland, and usually a four-chambered heart."
+        },
+        {
+            "word": "vertebrate",
+            "definition": "An animal having a backbone or spinal column."
+        },
+        {
+            "word": "herbivorous",
+            "definition": "An animal that feeds on plants."
+        },
+        {
+            "word": "carnivorous",
+            "definition": "An animal that feeds on other animals."
+        },
+        {
+            "word": "insectivore",
+            "definition": "An animal that feeds on insects."
+        },
+        {
+            "word": "omnivorous",
+            "definition": "An animal that feeds on both plants and animals."
+        },
+        {
+            "word": "predator",
+            "definition": "An animal that hunts and kills other animals for food."
+        },
+        {
+            "word": "prey",
+            "definition": "An animal that is hunted and killed by another for food."
+        }
+    ],
+    "finance": [
+        {
+            "word": "short",
+            "definition": "A short circuit."
+        },
+        {
+            "word": "government",
+            "definition": "The body with the power to make and/or enforce laws to control a country, land area, people or organization."
+        },
+        {
+            "word": "business",
+            "definition": "A specific commercial enterprise or establishment."
+        },
+        {
+            "word": "capital",
+            "definition": "Already-produced durable goods available for use as a factor of production, such as steam shovels (equipment) and office buildings (structures)."
+        },
+        {
+            "word": "private",
+            "definition": "A soldier of the lowest rank in the army."
+        },
+        {
+            "word": "management",
+            "definition": "Administration; the use of limited resources combined with forecasting, planning, leadership and execution skills to achieve predetermined specific goals."
+        },
+        {
+            "word": "economic",
+            "definition": "Pertaining to an economy."
+        },
+        {
+            "word": "minister",
+            "definition": "A person who is trained to preach, to perform religious ceremonies, and to afford pastoral care at a Protestant church."
+        },
+        {
+            "word": "executive",
+            "definition": "A chief officer or administrator, especially one who can make significant decisions on their own authority."
+        },
+        {
+            "word": "money",
+            "definition": "A legally or socially binding conceptual contract of entitlement to wealth, void of intrinsic value, payable for all debts and taxes, and regulated in supply."
+        },
+        {
+            "word": "bank",
+            "definition": "An institution where one can place and borrow money and take care of financial affairs."
+        },
+        {
+            "word": "financial",
+            "definition": "Related to finances."
+        },
+        {
+            "word": "vice",
+            "definition": "A bad habit."
+        },
+        {
+            "word": "economy",
+            "definition": "Effective management of a community or system, or especially its resources."
+        },
+        {
+            "word": "planning",
+            "definition": "To design (a building, machine, etc.)."
+        },
+        {
+            "word": "deputy",
+            "definition": "One appointed as the substitute of another, and empowered to act for them, in their name or their behalf; a substitute in office"
+        },
+        {
+            "word": "agriculture",
+            "definition": "The art or science of cultivating the ground, including the harvesting of crops, and the rearing and management of livestock"
+        },
+        {
+            "word": "stock",
+            "definition": "A store or supply."
+        },
+        {
+            "word": "finance",
+            "definition": "The management of money and other assets."
+        },
+        {
+            "word": "fund",
+            "definition": "A sum or source of money."
+        },
+        {
+            "word": "budget",
+            "definition": "The amount of money or resources earmarked for a particular institution, activity or time-frame."
+        },
+        {
+            "word": "loan",
+            "definition": "An act or instance of lending, an act or instance of granting something for temporary use."
+        },
+        {
+            "word": "commerce",
+            "definition": "The exchange or buying and selling of commodities; especially the exchange of merchandise, on a large scale, between different places or communities; extended trade or traffic."
+        },
+        {
+            "word": "sector",
+            "definition": "Section"
+        },
+        {
+            "word": "investment",
+            "definition": "The act of investing, or state of being invested."
+        },
+        {
+            "word": "credit",
+            "definition": "Reliance on the truth of something said or done; faith; trust."
+        },
+        {
+            "word": "tax",
+            "definition": "Money paid to the government other than for transaction-specific goods and services."
+        },
+        {
+            "word": "corporate",
+            "definition": "A bond issued by a corporation."
+        },
+        {
+            "word": "funding",
+            "definition": "To pay for."
+        },
+        {
+            "word": "cash",
+            "definition": "Money in the form of notes/bills and coins, as opposed to cheques/checks or electronic transactions."
+        },
+        {
+            "word": "marketing",
+            "definition": "To make (products or services) available for sale and promote them."
+        },
+        {
+            "word": "insurance",
+            "definition": "A means of indemnity against a future occurrence of an uncertain event."
+        },
+        {
+            "word": "real estate",
+            "definition": "Property that cannot easily be moved, usually buildings and the ground they are built on."
+        },
+        {
+            "word": "debt",
+            "definition": "An action, state of mind, or object one has an obligation to perform for another, adopt toward another, or give to another."
+        },
+        {
+            "word": "banking",
+            "definition": "To deal with a bank or financial institution, or for an institution to provide financial services to a client."
+        },
+        {
+            "word": "fiscal",
+            "definition": "A public official in certain countries having control of public revenue."
+        },
+        {
+            "word": "treasurer",
+            "definition": "The government official in charge of the Treasury."
+        },
+        {
+            "word": "treasury",
+            "definition": "A place where treasure is stored safely."
+        },
+        {
+            "word": "equity",
+            "definition": "Fairness, impartiality, or justice as determined in light of \"natural law\" or \"natural right\"."
+        },
+        {
+            "word": "accounting",
+            "definition": "To provide explanation."
+        },
+        {
+            "word": "portfolio",
+            "definition": "A case for carrying papers, drawings, photographs, maps and other flat documents."
+        },
+        {
+            "word": "financing",
+            "definition": "To conduct, or procure money for, financial operations; manage finances."
+        },
+        {
+            "word": "monetary",
+            "definition": "Of, pertaining to, or consisting of money."
+        },
+        {
+            "word": "banker",
+            "definition": "One who conducts the business of banking; one who, individually, or as a member of a company, keeps an establishment for the deposit or loan of money, or for traffic in money, bills of exchange, etc."
+        },
+        {
+            "word": "taxation",
+            "definition": "The act of imposing taxes and the fact of being taxed."
+        },
+        {
+            "word": "asset",
+            "definition": "Something or someone of any value; any portion of one's property or effects so considered."
+        },
+        {
+            "word": "financed",
+            "definition": "To conduct, or procure money for, financial operations; manage finances."
+        },
+        {
+            "word": "investing",
+            "definition": "To spend money, time, or energy on something, especially for some benefit or purpose; used with in."
+        },
+        {
+            "word": "venture capital",
+            "definition": "Money invested in an innovative enterprise in which both the potential for profit and the risk of loss are considerable."
+        },
+        {
+            "word": "repay",
+            "definition": "To pay back."
+        },
+        {
+            "word": "repayment",
+            "definition": "The act of repaying."
+        },
+        {
+            "word": "budgeting",
+            "definition": "To construct or draw up a budget."
+        },
+        {
+            "word": "microfinance",
+            "definition": "Finance that is provided to unemployed or low-income people or groups"
+        },
+        {
+            "word": "repayments",
+            "definition": "The act of repaying."
+        },
+        {
+            "word": "underwrite",
+            "definition": "To write below or under; subscribe."
+        },
+        {
+            "word": "bankroll",
+            "definition": "A roll of banknotes or other paper currency, carried in lieu of a wallet."
+        },
+        {
+            "word": "refinance",
+            "definition": "To renew the terms of a loan."
+        },
+        {
+            "word": "capital structure",
+            "definition": "The way that a corporation finances its assets through some combination of equity, debt, and hybrid securities."
+        },
+        {
+            "word": "cash in hand",
+            "definition": "Direct payment by cash, as opposed to through a bank."
+        },
+        {
+            "word": "tech",
+            "definition": "Technology"
+        },
+        {
+            "word": "consulting",
+            "definition": "To seek the opinion or advice of another; to take counsel; to deliberate together; to confer."
+        },
+        {
+            "word": "lease",
+            "definition": "(chiefly dialectal) To gather."
+        },
+        {
+            "word": "crypto",
+            "definition": "A secret supporter or follower."
+        },
+        {
+            "word": "buy",
+            "definition": "Something which is bought; a purchase."
+        },
+        {
+            "word": "trading",
+            "definition": "To engage in trade."
+        },
+        {
+            "word": "law",
+            "definition": "The body of binding rules and regulations, customs and standards established in a community by its legislative and judicial authorities."
+        },
+        {
+            "word": "legal",
+            "definition": "The legal department of a company."
+        },
+        {
+            "word": "real",
+            "definition": "A commodity; see realty."
+        }
+    ],
+    "food": [
+        {
+            "word": "well",
+            "definition": "In good health."
+        },
+        {
+            "word": "water",
+            "definition": "A substance (of molecular formula H\u2082O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam."
+        },
+        {
+            "word": "making",
+            "definition": "The act of forming, causing, or constituting; workmanship; construction."
+        },
+        {
+            "word": "plant",
+            "definition": "An organism that is not an animal, especially an organism capable of photosynthesis. Typically a small or herbaceous organism of this kind, rather than a tree."
+        },
+        {
+            "word": "agriculture",
+            "definition": "The art or science of cultivating the ground, including the harvesting of crops, and the rearing and management of livestock"
+        },
+        {
+            "word": "animal",
+            "definition": "In scientific usage, a multicellular organism that is usually mobile, whose cells are not encased in a rigid cell wall (distinguishing it from plants and fungi) and which derives energy solely from the consumption of other organisms (distinguishing it from plants)."
+        },
+        {
+            "word": "rice",
+            "definition": "Cereal plants, Oryza sativa of the grass family whose seeds are used as food."
+        },
+        {
+            "word": "restaurant",
+            "definition": "An eating establishment in which diners are served food, usually by waiters at their tables but sometimes (as in a fast food restaurant) at a counter."
+        },
+        {
+            "word": "fruit",
+            "definition": "(often in the plural) In general, a product of plant growth useful to man or animals."
+        },
+        {
+            "word": "feed",
+            "definition": "Food given to (especially herbivorous) animals."
+        },
+        {
+            "word": "eat",
+            "definition": "Something to be eaten; a meal; a food item."
+        },
+        {
+            "word": "drink",
+            "definition": "To consume (a liquid) through the mouth."
+        },
+        {
+            "word": "protein",
+            "definition": "Any of numerous large, complex naturally-produced molecules composed of one or more long chains of amino acids, in which the amino acid groups are held together by peptide bonds."
+        },
+        {
+            "word": "dinner",
+            "definition": "A midday meal (in a context in which the evening meal is called supper or tea)."
+        },
+        {
+            "word": "milk",
+            "definition": "A white liquid produced by the mammary glands of female mammals to nourish their young. From certain animals, especially cows, it is also called dairy milk and is a common food for humans as a beverage or used to produce various dairy products such as butter, cheese, and yogurt."
+        },
+        {
+            "word": "meat",
+            "definition": "The flesh (muscle tissue) of an animal used as food."
+        },
+        {
+            "word": "chicken",
+            "definition": "A domestic fowl, Gallus gallus, especially when young."
+        },
+        {
+            "word": "cooking",
+            "definition": "To prepare (food) for eating by heating it, often by combining it with other ingredients."
+        },
+        {
+            "word": "livestock",
+            "definition": "Farm animals; animals domesticated for cultivation."
+        },
+        {
+            "word": "fare",
+            "definition": "A going; journey; travel; voyage; course; passage."
+        },
+        {
+            "word": "bacon",
+            "definition": "Cured meat from the sides, belly or back of a pig."
+        },
+        {
+            "word": "cheese",
+            "definition": "A dairy product made from curdled or cultured milk."
+        },
+        {
+            "word": "nutrition",
+            "definition": "The organic process by which an organism assimilates food and uses it for growth and maintenance."
+        },
+        {
+            "word": "hungry",
+            "definition": "Affected by hunger; desiring of food; having a physical need for food."
+        },
+        {
+            "word": "hunger",
+            "definition": "A need or compelling desire for food."
+        },
+        {
+            "word": "lemon",
+            "definition": "A yellowish citrus fruit."
+        },
+        {
+            "word": "meal",
+            "definition": "Food that is prepared and eaten, usually at a specific time, and usually in a comparatively large quantity (as opposed to a snack)."
+        },
+        {
+            "word": "beef",
+            "definition": "The meat from a cow, bull or other bovine."
+        },
+        {
+            "word": "vegetable",
+            "definition": "Any plant."
+        },
+        {
+            "word": "soup",
+            "definition": "Any of various dishes commonly made by combining liquids, such as water or stock with other ingredients, such as meat and vegetables, that contribute flavor and texture."
+        },
+        {
+            "word": "pizza",
+            "definition": "A baked Italian dish of a thinly rolled bread dough crust typically topped before baking with tomato sauce, cheese and other ingredients such as meat, vegetables or fruit"
+        },
+        {
+            "word": "edible",
+            "definition": "Anything edible."
+        },
+        {
+            "word": "maize",
+            "definition": "Corn; a type of grain of the species Zea mays."
+        },
+        {
+            "word": "beverage",
+            "definition": "A liquid to consume; a drink, such as tea, coffee, liquor, beer, milk, juice, or soft drinks, usually excluding water."
+        },
+        {
+            "word": "seafood",
+            "definition": "Fish, shellfish, seaweed, and other edible aquatic life."
+        },
+        {
+            "word": "fast food",
+            "definition": "Food that is served quickly, often standardized and pre-prepared."
+        },
+        {
+            "word": "snack",
+            "definition": "A light meal."
+        },
+        {
+            "word": "cereal",
+            "definition": "A type of grass (such as wheat, rice or oats) cultivated for its edible grains."
+        },
+        {
+            "word": "vegetarian",
+            "definition": "A person who does not eat animal flesh, or, in some cases, use any animal products."
+        },
+        {
+            "word": "nutrient",
+            "definition": "A source of nourishment, such as food, that can be metabolized by an organism to give energy and build tissue."
+        },
+        {
+            "word": "pasta",
+            "definition": "Dough made from wheat and water and sometimes mixed with egg and formed into various shapes; often sold in dried form and typically boiled for eating."
+        },
+        {
+            "word": "curing",
+            "definition": "To restore to health."
+        },
+        {
+            "word": "sushi",
+            "definition": "A Japanese dish made of small portions of sticky white rice flavored with vinegar, usually wrapped in seaweed and filled or topped with fish, vegetables or meat."
+        },
+        {
+            "word": "pantry",
+            "definition": "A small room, closet, or cabinet usually located in or near the kitchen, dedicated to shelf-stable food storage and/or storing kitchenware, like a larder, but smaller."
+        },
+        {
+            "word": "yogurt",
+            "definition": "A milk-based product stiffened by a bacterium-aided curdling process, and sometimes mixed with fruit or other flavoring."
+        },
+        {
+            "word": "pickled",
+            "definition": "To preserve food (or sometimes other things) in a salt, sugar or vinegar solution."
+        },
+        {
+            "word": "sustenance",
+            "definition": "Something that provides support or nourishment."
+        },
+        {
+            "word": "hunter-gatherer",
+            "definition": "A member of a group of people who live by hunting animals and gathering edible plants for their main food sources, and who do not keep animals or farm land."
+        },
+        {
+            "word": "nourishment",
+            "definition": "The act of nourishing or the state of being nourished"
+        },
+        {
+            "word": "victual",
+            "definition": "Food fit for human consumption."
+        },
+        {
+            "word": "foodstuff",
+            "definition": "A material that may be used as food."
+        },
+        {
+            "word": "aliment",
+            "definition": "Food."
+        },
+        {
+            "word": "convenience food",
+            "definition": "A food or meal that needs little preparation or cooking, especially one sold prepackaged."
+        },
+        {
+            "word": "provender",
+            "definition": "Food, especially for livestock."
+        },
+        {
+            "word": "recipe",
+            "definition": "A formula for preparing or using a medicine; a prescription; also, a medicine prepared from such instructions."
+        },
+        {
+            "word": "blender",
+            "definition": "A machine outfitted with sharp blades, for mashing, crushing or liquefying food ingredients."
+        },
+        {
+            "word": "pabulum",
+            "definition": "Food or fodder, particularly that taken in by plants or animals."
+        },
+        {
+            "word": "service",
+            "definition": "An act of being of assistance to someone."
+        },
+        {
+            "word": "alcohol",
+            "definition": "Any of a class of organic compounds (such as ethanol) containing a hydroxyl functional group (-OH)."
+        },
+        {
+            "word": "bar",
+            "definition": "A solid, more or less rigid object of metal or wood with a uniform cross-section smaller than its length."
+        },
+        {
+            "word": "travel",
+            "definition": "The act of traveling; passage from place to place."
+        },
+        {
+            "word": "liquid",
+            "definition": "A substance that is flowing, and keeping no shape, such as water; a substance of which the molecules, while not tending to separate from one another like those of a gas, readily change their relative position, and which therefore retains no definite shape, except that determined by the containing receptacle; an inelastic fluid."
+        },
+        {
+            "word": "exercise",
+            "definition": "Any activity designed to develop or hone a skill or ability."
+        },
+        {
+            "word": "merch",
+            "definition": "Merchandise"
+        },
+        {
+            "word": "waste",
+            "definition": "Excess of material, useless by-products or damaged, unsaleable products; garbage; rubbish."
+        },
+        {
+            "word": "munchies",
+            "definition": "Food, especially convenience snack foods."
+        },
+        {
+            "word": "catering",
+            "definition": "To provide, particularly:"
+        }
+
+    ],
+    "health": [
+        {
+            "word": "improve",
+            "definition": "To make (something) better; to increase the value or productivity (of something)."
+        },
+        {
+            "word": "education",
+            "definition": "The process of imparting knowledge, skill and judgment."
+        },
+        {
+            "word": "research",
+            "definition": "Diligent inquiry or examination to seek or revise facts, principles, theories, applications, etc.; laborious or continued search after truth."
+        },
+        {
+            "word": "program",
+            "definition": "A set of structured activities."
+        },
+        {
+            "word": "health",
+            "definition": "The state of being free from physical or psychological disease, illness, or malfunction; wellness."
+        },
+        {
+            "word": "medical",
+            "definition": "A medical examination."
+        },
+        {
+            "word": "care",
+            "definition": "Grief, sorrow."
+        },
+        {
+            "word": "medicine",
+            "definition": "A substance which specifically promotes healing when ingested or consumed in some way."
+        },
+        {
+            "word": "safety",
+            "definition": "The condition or feeling of being safe; security; certainty."
+        },
+        {
+            "word": "condition",
+            "definition": "A logical clause or phrase that a conditional statement uses. The phrase can either be true or false."
+        },
+        {
+            "word": "disease",
+            "definition": "An abnormal condition of a human, animal or plant that causes discomfort or dysfunction; distinct from injury insofar as the latter is usually instantaneously acquired."
+        },
+        {
+            "word": "benefit",
+            "definition": "An advantage; help or aid from something."
+        },
+        {
+            "word": "insurance",
+            "definition": "A means of indemnity against a future occurrence of an uncertain event."
+        },
+        {
+            "word": "mental",
+            "definition": "Of or relating to the mind or an intellectual process."
+        },
+        {
+            "word": "illness",
+            "definition": "An instance of a disease or poor health."
+        },
+        {
+            "word": "welfare",
+            "definition": "Health, safety, happiness and prosperity; well-being in any respect."
+        },
+        {
+            "word": "exercise",
+            "definition": "Any activity designed to develop or hone a skill or ability."
+        },
+        {
+            "word": "lifestyle",
+            "definition": "A style of living that reflects the attitudes and values of a person or group."
+        },
+        {
+            "word": "stress",
+            "definition": "(Cause of) discomfort."
+        },
+        {
+            "word": "patient",
+            "definition": "A person or animal who receives treatment from a doctor or other medically educated person."
+        },
+        {
+            "word": "healthy",
+            "definition": "Enjoying health and vigor of body, mind, or spirit: well."
+        },
+        {
+            "word": "healthcare",
+            "definition": "The prevention, treatment, and management of illness or the preservation of mental and physical well-being through the services offered by the medical, nursing, and allied health professions."
+        },
+        {
+            "word": "diet",
+            "definition": "The food and beverage a person or animal consumes."
+        },
+        {
+            "word": "aids",
+            "definition": "Help; assistance; succor, relief."
+        },
+        {
+            "word": "health care",
+            "definition": "The prevention, treatment, and management of illness or the preservation of mental and physical well-being through the services offered by the medical, nursing, and allied health professions."
+        },
+        {
+            "word": "nursing",
+            "definition": "To breastfeed: to feed (a baby) at the breast; to suckle."
+        },
+        {
+            "word": "fitness",
+            "definition": "The condition of being fit, suitable or appropriate."
+        },
+        {
+            "word": "public health",
+            "definition": "The science and practice of community hygiene; includes preventive medicine, health education, sanitation and environmental safety."
+        },
+        {
+            "word": "nutrition",
+            "definition": "The organic process by which an organism assimilates food and uses it for growth and maintenance."
+        },
+        {
+            "word": "mental health",
+            "definition": "One's emotional well-being, especially with reference to one's outlook on life, ability to cope with stress or the absence of a mental disorder."
+        },
+        {
+            "word": "reproductive",
+            "definition": "A reproductive organism (especially such as in an insect)."
+        },
+        {
+            "word": "sanitation",
+            "definition": "The hygienic disposal or recycling of waste."
+        },
+        {
+            "word": "hygiene",
+            "definition": "The science of health, its promotion and preservation."
+        },
+        {
+            "word": "well-being",
+            "definition": "A state of health, happiness and/or prosperity."
+        },
+        {
+            "word": "epidemiology",
+            "definition": "The branch of science dealing with the spread and control of diseases, viruses, concepts etc. throughout populations or systems."
+        },
+        {
+            "word": "nutritional",
+            "definition": "Of, pertaining to, or providing nutrition."
+        },
+        {
+            "word": "wellness",
+            "definition": "The quality or state of being in good health."
+        },
+        {
+            "word": "obesity",
+            "definition": "The state of being obese due to an excess of body fat."
+        },
+        {
+            "word": "upbeat",
+            "definition": "An unaccented beat at the start of a musical phrase."
+        },
+        {
+            "word": "preventive",
+            "definition": "A thing that prevents, hinders, or acts as an obstacle to."
+        },
+        {
+            "word": "schizophrenia",
+            "definition": "A psychiatric diagnosis denoting a persistent, often chronic, mental illness characterised by abnormal perception, thinking, behavior and emotion, often marked by delusions."
+        },
+        {
+            "word": "built environment",
+            "definition": "All the physical things constructed by humans as aids to living."
+        },
+        {
+            "word": "wellbeing",
+            "definition": "A state of health, happiness and/or prosperity."
+        },
+        {
+            "word": "childcare",
+            "definition": "The act, practice, or occupation of supervising and taking care of young children."
+        },
+        {
+            "word": "physiotherapist",
+            "definition": "A therapist who treats physical injury or dysfunction, usually with exercise."
+        },
+        {
+            "word": "preventative",
+            "definition": "A thing that prevents, hinders, or acts as an obstacle to."
+        },
+        {
+            "word": "immunizations",
+            "definition": "The process by which an individual is safely exposed in a controlled manner to a material that is designed to prime their immune system against that material."
+        },
+        {
+            "word": "musclebound",
+            "definition": "Having pronounced muscle development through weightlifting, bodybuilding, or other physical exercise."
+        },
+        {
+            "word": "life",
+            "definition": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living."
+        },
+        {
+            "word": "damage",
+            "definition": "Injury or harm; the condition or measure of something not being intact."
+        },
+        {
+            "word": "armor",
+            "definition": "A protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces."
+        },
+        {
+            "word": "stamina",
+            "definition": "The energy and strength for continuing to do something over a long period of time; power of sustained exertion, or resistance to hardship, illness etc."
+        },
+        {
+            "word": "healing",
+            "definition": "The process where the cells in the body regenerate and repair themselves."
+        },
+        {
+            "word": "age",
+            "definition": "The whole duration of a being, whether animal, plant, or other kind, being alive."
+        },
+        {
+            "word": "body",
+            "definition": "Physical frame."
+        },
+        {
+            "word": "addiction",
+            "definition": "A state that is characterized by compulsive drug use or compulsive engagement in rewarding behavior, despite negative consequences."
+        },
+        {
+            "word": "weight",
+            "definition": "(physical) Matter, material."
+        },
+        {
+            "word": "beauty",
+            "definition": "The quality of being (especially visually) attractive, pleasing, fine or good-looking; comeliness."
+        },
+        {
+            "word": "shield",
+            "definition": "Anything that protects or defends; defense; shelter; protection."
+        },
+        {
+            "word": "well",
+            "definition": "In good health."
+        },
+        {
+            "word": "disability",
+            "definition": "State of being disabled; deprivation or want of ability; absence of competent physical, intellectual, or moral power, means, fitness, and the like."
+        },
+        {
+            "word": "happiness",
+            "definition": "The emotion of being happy; joy."
+        },
+        {
+            "word": "strength",
+            "definition": "The quality or degree of being strong."
+        },
+        {
+            "word": "heart",
+            "definition": "A muscular organ that pumps blood through the body, traditionally thought to be the seat of emotion."
+        },
+        {
+            "word": "travel",
+            "definition": "The act of traveling; passage from place to place."
+        },
+        {
+            "word": "recovery",
+            "definition": "The act or process of regaining or repossession of something lost."
+        },
+        {
+            "word": "psychological",
+            "definition": "Of or pertaining to psychology."
+        },
+        {
+            "word": "hidrosis",
+            "definition": "The formation and excretion of sweat; perspiration."
+        },
+        {
+            "word": "energy",
+            "definition": "The impetus behind all motion and all activity."
+        }
+    ],
+    "history": [
+        {
+            "word": "history",
+            "definition": "The aggregate of past events."
+        },
+        {
+            "word": "world",
+            "definition": "(with \"the\") Human collective existence; existence in general."
+        },
+        {
+            "word": "life",
+            "definition": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living."
+        },
+        {
+            "word": "century",
+            "definition": "A period of 100 consecutive years; often specifically a numbered period with conventional start and end dates, e.g., the twentieth century, which stretches from (strictly) 1901 through 2000, or (informally) 1900 through 1999. The first century AD was from 1 to 100."
+        },
+        {
+            "word": "became",
+            "definition": "To arrive, come (to a place)."
+        },
+        {
+            "word": "biography",
+            "definition": "A person's life story, especially one published."
+        },
+        {
+            "word": "geography",
+            "definition": "A description of the earth: a treatise or textbook on geography; an atlas or gazetteer."
+        },
+        {
+            "word": "record",
+            "definition": "A disk, usually made of a polymer, used to record sound for playback on a phonograph."
+        },
+        {
+            "word": "book",
+            "definition": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc."
+        },
+        {
+            "word": "art",
+            "definition": "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and emotions, usually specifically the production of the beautiful in a graphic or plastic medium."
+        },
+        {
+            "word": "science",
+            "definition": "A particular discipline or branch of learning, especially one dealing with measurable or systematic principles rather than intuition or natural ability."
+        },
+        {
+            "word": "story",
+            "definition": "A sequence of real or fictional events; or, an account of such a sequence."
+        },
+        {
+            "word": "historical",
+            "definition": "A historical romance."
+        },
+        {
+            "word": "culture",
+            "definition": "The arts, customs, lifestyles, background, and habits that characterize a particular society or nation."
+        },
+        {
+            "word": "modern",
+            "definition": "Someone who lives in modern times."
+        },
+        {
+            "word": "past",
+            "definition": "To change place."
+        },
+        {
+            "word": "historic",
+            "definition": "A history, a non-fiction account of the past."
+        },
+        {
+            "word": "cultural",
+            "definition": "Pertaining to culture."
+        },
+        {
+            "word": "literature",
+            "definition": "The body of all written works."
+        },
+        {
+            "word": "heritage",
+            "definition": "An inheritance; property that may be inherited."
+        },
+        {
+            "word": "nation",
+            "definition": "A historically constituted, stable community of people, formed on the basis of a common language, territory, economic life, ethnicity and/or psychological make-up manifested in a common culture."
+        },
+        {
+            "word": "legacy",
+            "definition": "Money or property bequeathed to someone in a will."
+        },
+        {
+            "word": "tradition",
+            "definition": "A part of culture that is passed from person to person or generation to generation, possibly differing in detail from family to family, such as the way to celebrate holidays."
+        },
+        {
+            "word": "philosophy",
+            "definition": "The love of wisdom."
+        },
+        {
+            "word": "centuries",
+            "definition": "A period of 100 consecutive years; often specifically a numbered period with conventional start and end dates, e.g., the twentieth century, which stretches from (strictly) 1901 through 2000, or (informally) 1900 through 1999. The first century AD was from 1 to 100."
+        },
+        {
+            "word": "communication",
+            "definition": "The act or fact of communicating anything; transmission."
+        },
+        {
+            "word": "historian",
+            "definition": "A writer of history; a chronicler; an annalist."
+        },
+        {
+            "word": "origins",
+            "definition": "The beginning of something."
+        },
+        {
+            "word": "decade",
+            "definition": "A group, set, or series of ten , particularly:"
+        },
+        {
+            "word": "chronicle",
+            "definition": "A written account of events and when they happened, ordered by time."
+        },
+        {
+            "word": "dynasty",
+            "definition": "A series of rulers or dynasts from one family."
+        },
+        {
+            "word": "longest",
+            "definition": "To take a long position in."
+        },
+        {
+            "word": "renaissance",
+            "definition": "A rebirth or revival."
+        },
+        {
+            "word": "traditions",
+            "definition": "A part of culture that is passed from person to person or generation to generation, possibly differing in detail from family to family, such as the way to celebrate holidays."
+        },
+        {
+            "word": "narrative",
+            "definition": "The systematic recitation of an event or series of events."
+        },
+        {
+            "word": "etymology",
+            "definition": "The study of the historical development of languages, particularly as manifested in individual words."
+        },
+        {
+            "word": "mythology",
+            "definition": "The collection of myths of a people, concerning the origin of the people, history, deities, ancestors and heroes."
+        },
+        {
+            "word": "remarkable",
+            "definition": "Worthy of being remarked or noted; notable"
+        },
+        {
+            "word": "prehistoric",
+            "definition": "Having lasted from a remote period; having been of long duration; of great age, very old."
+        },
+        {
+            "word": "genealogy",
+            "definition": "The descent of a person, family, or group from an ancestor or ancestors; lineage or pedigree."
+        },
+        {
+            "word": "antiquity",
+            "definition": "Ancient times; faraway history; former ages"
+        },
+        {
+            "word": "lesson",
+            "definition": "A section of learning or teaching into which a wider learning content is divided."
+        },
+        {
+            "word": "lore",
+            "definition": "All the facts and traditions about a particular subject that have been accumulated over time through education or experience."
+        },
+        {
+            "word": "prehistory",
+            "definition": "(properly) History before written records, inclusive of both"
+        },
+        {
+            "word": "historiography",
+            "definition": "The writing of history; a written history."
+        },
+        {
+            "word": "deadliest",
+            "definition": "Subject to death; mortal."
+        },
+        {
+            "word": "ethnology",
+            "definition": "The branch of anthropology that studies and compares the different human cultures."
+        },
+        {
+            "word": "case history",
+            "definition": "The details of the history of some case (often medical)."
+        },
+        {
+            "word": "storied",
+            "definition": "Much talked or written about"
+        },
+        {
+            "word": "checkered",
+            "definition": "To mark in a pattern of alternating light and dark positions, like a checkerboard."
+        },
+        {
+            "word": "winningest",
+            "definition": "That constitutes a win."
+        },
+        {
+            "word": "renascence",
+            "definition": "A new beginning or rebirth; regeneration."
+        },
+        {
+            "word": "relationship",
+            "definition": "Connection or association; the condition of being related."
+        },
+        {
+            "word": "english",
+            "definition": "Spinning or rotary motion given to a ball around the vertical axis, as in billiards or bowling."
+        },
+        {
+            "word": "social",
+            "definition": "A festive gathering to foster introductions."
+        },
+        {
+            "word": "theology",
+            "definition": "The study of God, a god, or gods; and of the truthfulness of religion in general."
+        },
+        {
+            "word": "travel",
+            "definition": "The act of traveling; passage from place to place."
+        },
+        {
+            "word": "context",
+            "definition": "The surroundings, circumstances, environment, background or settings that determine, specify, or clarify the meaning of an event or other occurrence."
+        },
+        {
+            "word": "family",
+            "definition": "A group of people who are closely related to one another (by blood, marriage or adoption); kin; for example, a set of parents and their children; an immediate family."
+        },
+        {
+            "word": "activity",
+            "definition": "The state or quality of being active; activeness."
+        },
+        {
+            "word": "future",
+            "definition": "The time ahead; those moments yet to be experienced."
+        },
+        {
+            "word": "biology",
+            "definition": "The study of all life or living matter."
+        },
+        {
+            "word": "health",
+            "definition": "The state of being free from physical or psychological disease, illness, or malfunction; wellness."
+        },
+        {
+            "word": "background",
+            "definition": "One's social heritage, or previous life; what one did in the past."
+        },
+        {
+            "word": "meaning",
+            "definition": "(of words or symbols) The entity, perception, feeling or concept thereby represented or evoked."
+        }
+    ],
+    "job": [
+        {
+            "word": "coverground",
+            "definition": "To review a certain amount of information or discuss a certain number of topics (two words)"
+        },
+        {
+            "word": "sauvy",
+            "definition": "Well informed knowledgeable, or proficient"
+        },
+        {
+            "word": "jobdown",
+            "definition": "To write briefly, to write a short note of"
+        },
+        {
+            "word": "endeavor",
+            "definition": "To try hard to do or achieve something"
+        },
+        {
+            "word": "senior",
+            "definition": "Name given to a student in the last year of high school"
+        },
+        {
+            "word": "orientation",
+            "definition": "A period before the start of an academic year when new students are introduced to the school and its facilities"
+        },
+        {
+            "word": "internship",
+            "definition": "A period of work experience in a particular job or profession"
+        },
+        {
+            "word": "resume",
+            "definition": "A brief account of one's education, qualifications, and previous experience, typically sent with a job application"
+        },
+        {
+            "word": "coverletter",
+            "definition": "A letter sent with, and explaining the contents of, another document or a parcel of goods"
+        },
+        {
+            "word": "application",
+            "definition": "A formal request for something, typically a job"
+        },
+        {
+            "word": "interview",
+            "definition": "A formal meeting in which one or more people question or talk to another person or group of people"
+        },
+        {
+            "word": "job",
+            "definition": "A paid position of regular employment"
+        },
+        {
+            "word": "career",
+            "definition": "An occupation undertaken for a significant period of a person's life and with opportunities for progress"
+        },
+        {
+            "word": "employment",
+            "definition": "The state of having a paid job"
+        },
+        {
+            "word": "meander",
+            "definition": "To move in a sinous way (here to take your time)"
+        },
+        {
+            "word": "etiquette",
+            "definition": "Socially correct behavior"
+        },
+        {
+            "word": "daunting",
+            "definition": "Intimidating"
+        },
+        {
+            "word": "decipher",
+            "definition": "To make out the meaning of, to make head or tail of"
+        },
+        {
+            "word": "fellowship",
+            "definition": "Money granted by university for advanced study or research"
+        },
+        {
+            "word": "knowledgeable",
+            "definition": "Versed, well read, well informed"
+        },
+        {
+            "word": "jobshadow",
+            "definition": "What college students do to learn about a particular profession and see if it might be suitable fro them when they accompany an experienced worker as they perform the targeted job"
+        },
+        {
+            "word": "empirical",
+            "definition": "Derived from observation or experiment"
+        },
+        {
+            "word": "annotate",
+            "definition": "To supply a written work with explanatory notes"
+        },
+        {
+            "word": "wanderingmap",
+            "definition": "A visual thinking tool that helps structuring information, helping you to better analyze, organize and present your ideas"
+        },
+        {
+            "word": "doubledipping",
+            "definition": "Cumulating"
+        },
+        {
+            "word": "graduation",
+            "definition": "The successful completion of a program of study"
+        },
+        {
+            "word": "uncluttered",
+            "definition": "Tidy"
+        },
+        {
+            "word": "careercenter",
+            "definition": "A place where students can get help with their career"
+        },
+        {
+            "word": "place",
+            "definition": "(physical) An area; somewhere within an area."
+        },
+        {
+            "word": "career",
+            "definition": "One's calling in life; a person's occupation; one's profession."
+        },
+        {
+            "word": "work",
+            "definition": "(heading) Employment."
+        },
+        {
+            "word": "position",
+            "definition": "A place or location."
+        },
+        {
+            "word": "post",
+            "definition": "A long dowel or plank protruding from the ground; a fencepost; a lightpost."
+        },
+        {
+            "word": "what",
+            "definition": "(Singlish) Used to contradict an underlying assumption held by the interlocutor."
+        },
+        {
+            "word": "business",
+            "definition": "A specific commercial enterprise or establishment."
+        },
+        {
+            "word": "occupation",
+            "definition": "An activity or task with which one occupies oneself; usually specifically the productive activity, service, trade, or craft for which one is regularly paid; a job."
+        },
+        {
+            "word": "get",
+            "definition": "Offspring."
+        },
+        {
+            "word": "put",
+            "definition": "A right to sell something at a predetermined price."
+        },
+        {
+            "word": "money",
+            "definition": "A legally or socially binding conceptual contract of entitlement to wealth, void of intrinsic value, payable for all debts and taxes, and regulated in supply."
+        },
+        {
+            "word": "job",
+            "definition": "A task."
+        },
+        {
+            "word": "positions",
+            "definition": "A place or location."
+        },
+        {
+            "word": "problem",
+            "definition": "A difficulty that has to be resolved or dealt with."
+        },
+        {
+            "word": "hires",
+            "definition": "Payment for the temporary use of something."
+        },
+        {
+            "word": "task",
+            "definition": "A piece of work done as part of one\u2019s duties."
+        },
+        {
+            "word": "duty",
+            "definition": "That which one is morally or legally obligated to do."
+        },
+        {
+            "word": "employment",
+            "definition": "The work or occupation for which one is used, and often paid"
+        },
+        {
+            "word": "r\u00e9sum\u00e9s",
+            "definition": "A summary or synopsis."
+        },
+        {
+            "word": "jobs",
+            "definition": "A task."
+        },
+        {
+            "word": "profession",
+            "definition": "A declaration of belief, faith or one's opinion, whether genuine or pretended."
+        },
+        {
+            "word": "worker",
+            "definition": "A person who performs labor for a living, especially manual labor."
+        },
+        {
+            "word": "volunteer",
+            "definition": "One who enters into, or offers for, any service of his/her own free will, especially when done without pay."
+        },
+        {
+            "word": "employee",
+            "definition": "An individual who provides labor to a company or another person."
+        },
+        {
+            "word": "quit",
+            "definition": "To pay (a debt, fine etc.)."
+        },
+        {
+            "word": "assignment",
+            "definition": "The act of assigning; the allocation of a job or a set of tasks."
+        },
+        {
+            "word": "employer",
+            "definition": "A person, firm or other entity which pays for or hires the services of another person."
+        },
+        {
+            "word": "stint",
+            "definition": "A period of time spent doing or being something; a spell."
+        },
+        {
+            "word": "hire",
+            "definition": "Payment for the temporary use of something."
+        },
+        {
+            "word": "skilled",
+            "definition": "Having or showing skill; skillful."
+        },
+        {
+            "word": "salary",
+            "definition": "A fixed amount of money paid to a worker, usually calculated on a monthly or annual basis, not hourly, as wages. Implies a degree of professionalism and/or autonomy."
+        },
+        {
+            "word": "employ",
+            "definition": "The state of being an employee; employment."
+        },
+        {
+            "word": "wage",
+            "definition": "(often in plural) An amount of money paid to a worker for a specified quantity of work, usually calculated on an hourly basis and expressed in an amount of money per hour."
+        },
+        {
+            "word": "managerial",
+            "definition": "Of or relating to a manager or management; involving management-like duties."
+        },
+        {
+            "word": "freelancing",
+            "definition": "To work as a freelance."
+        },
+        {
+            "word": "employers",
+            "definition": "A person, firm or other entity which pays for or hires the services of another person."
+        },
+        {
+            "word": "vacancy",
+            "definition": "An unoccupied position or job."
+        },
+        {
+            "word": "hiring",
+            "definition": "To obtain the services of in return for fixed payment."
+        },
+        {
+            "word": "workplace",
+            "definition": "The place where someone works."
+        },
+        {
+            "word": "obligation",
+            "definition": "The act of binding oneself by a social, legal, or moral tie to someone."
+        },
+        {
+            "word": "internship",
+            "definition": "A job taken by a student in order to learn a profession or trade."
+        },
+        {
+            "word": "waitressing",
+            "definition": "To work as a waitress."
+        },
+        {
+            "word": "vocation",
+            "definition": "An inclination to undertake a certain kind of work, especially a religious career; often in response to a perceived summons; a calling."
+        },
+        {
+            "word": "speculate",
+            "definition": "To think, meditate or reflect on a subject; to consider, to deliberate or cogitate."
+        },
+        {
+            "word": "workload",
+            "definition": "The amount of work assigned to a particular worker, normally in a specified time period"
+        },
+        {
+            "word": "accountancy",
+            "definition": "The function of compiling and providing financial information primarily by reports referred to as financial statements, including bookkeeping, systems design, analysis and interpretation of accounting information."
+        },
+        {
+            "word": "laborer",
+            "definition": "One who uses body strength instead of intellectual power to earn a wage, usually hourly."
+        },
+        {
+            "word": "r\u00e9sum\u00e9",
+            "definition": "A summary or synopsis."
+        },
+        {
+            "word": "caper",
+            "definition": "A playful leap or jump."
+        },
+        {
+            "word": "work ethic",
+            "definition": "The value that one ought to work hard at one's job or duties."
+        },
+        {
+            "word": "internships",
+            "definition": "A job taken by a student in order to learn a profession or trade."
+        },
+        {
+            "word": "menial",
+            "definition": "A servant, especially a domestic servant."
+        },
+        {
+            "word": "secretarial",
+            "definition": "Pertaining to a secretary."
+        },
+        {
+            "word": "rehired",
+            "definition": "To hire again."
+        },
+        {
+            "word": "apprenticeships",
+            "definition": "The condition of, or the time served by, an apprentice."
+        },
+        {
+            "word": "chore",
+            "definition": "A task, especially a difficult, unpleasant, or routine one."
+        },
+        {
+            "word": "unfilled",
+            "definition": "Not filled, especially occupational positions."
+        },
+        {
+            "word": "fulltime",
+            "definition": "Involving a full amount of time spent on some activity, especially a job."
+        },
+        {
+            "word": "subcontract",
+            "definition": "A portion of a contracted project that is contracted out in turn."
+        },
+        {
+            "word": "thankless",
+            "definition": "(of a task) not appreciated or rewarded"
+        },
+        {
+            "word": "rehiring",
+            "definition": "To hire again."
+        },
+        {
+            "word": "overqualified",
+            "definition": "Having too many qualifications to be deemed appropriate for a (usually unskilled) job."
+        },
+        {
+            "word": "class",
+            "definition": "A group, collection, category or set sharing characteristics or attributes."
+        },
+        {
+            "word": "life",
+            "definition": "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living."
+        },
+        {
+            "word": "company",
+            "definition": "A team; a group of people who work together professionally."
+        },
+        {
+            "word": "role",
+            "definition": "A character or part played by a performer or actor."
+        },
+        {
+            "word": "school",
+            "definition": "(collective) A group of fish or a group of marine mammals such as porpoises, dolphins, or whales."
+        },
+        {
+            "word": "income",
+            "definition": "Money one earns by working or by capitalising on the work of others."
+        },
+        {
+            "word": "industry",
+            "definition": "The tendency to work persistently. Diligence."
+        },
+        {
+            "word": "education",
+            "definition": "The process of imparting knowledge, skill and judgment."
+        },
+        {
+            "word": "hobby",
+            "definition": "An activity that one enjoys doing in one's spare time."
+        },
+        {
+            "word": "field",
+            "definition": "A land area free of woodland, cities, and towns; open country."
+        },
+        {
+            "word": "scut work",
+            "definition": "Distasteful tasks."
+        },
+        {
+            "word": "intern",
+            "definition": "A person who is interned, forcibly or voluntarily."
+        },
+        {
+            "word": "pay",
+            "definition": "Money given in return for work; salary or wages."
+        },
+        {
+            "word": "college",
+            "definition": "A corporate group; a group of colleagues."
+        },
+        {
+            "word": "family",
+            "definition": "A group of people who are closely related to one another (by blood, marriage or adoption); kin; for example, a set of parents and their children; an immediate family."
+        },
+        {
+            "word": "degree",
+            "definition": "A stage of proficiency or qualification in a course of study, now especially an award bestowed by a university or, in some countries, a college, as a certification of academic achievement. (In the United States, can include secondary schools.)"
+        },
+        {
+            "word": "housing",
+            "definition": "To keep within a structure or container."
+        },
+        {
+            "word": "boss",
+            "definition": "A person who oversees and directs the work of others; a supervisor."
+        },
+        {
+            "word": "financial",
+            "definition": "Related to finances."
+        },
+        {
+            "word": "interview",
+            "definition": "An official face-to-face meeting of monarchs or other important figures."
+        },
+        {
+            "word": "promotion",
+            "definition": "An advancement in rank or position."
+        },
+        {
+            "word": "the",
+            "definition": "With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives."
+        },
+        {
+            "word": "skill",
+            "definition": "Capacity to do something well; technique, ability. Skills are usually acquired or learned, as opposed to abilities, which are often thought of as innate."
+        },
+        {
+            "word": "project",
+            "definition": "A planned endeavor, usually with a specific goal and accomplished in several steps or stages."
+        },
+        {
+            "word": "lifestyle",
+            "definition": "A style of living that reflects the attitudes and values of a person or group."
+        },
+        {
+            "word": "side",
+            "definition": "A bounding straight edge of a two-dimensional shape."
+        },
+        {
+            "word": "home",
+            "definition": "A dwelling."
+        }
+    ],
+    "music": [
+        {
+            "word": "music",
+            "definition": "A series of sounds organized in time, employing melody, harmony, tempo etc. usually to convey a mood."
+        },
+        {
+            "word": "song",
+            "definition": "A musical composition with lyrics for voice or voices, performed by singing."
+        },
+        {
+            "word": "radio",
+            "definition": "The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves."
+        },
+        {
+            "word": "band",
+            "definition": "A strip of material used for strengthening or coupling."
+        },
+        {
+            "word": "performance",
+            "definition": "The act of performing; carrying into execution or action; execution; achievement; accomplishment; representation by action."
+        },
+        {
+            "word": "singer",
+            "definition": "A person who sings, often professionally."
+        },
+        {
+            "word": "entertainment",
+            "definition": "An activity designed to give pleasure, enjoyment, diversion, amusement, or relaxation to an audience, no matter whether the audience participates passively as in watching opera or a movie, or actively as in games."
+        },
+        {
+            "word": "sound",
+            "definition": "Healthy."
+        },
+        {
+            "word": "musical",
+            "definition": "A stage performance, show or film that involves singing, dancing and musical numbers performed by the cast as well as acting."
+        },
+        {
+            "word": "voice",
+            "definition": "Sound uttered by the mouth, especially by human beings in speech or song; sound thus uttered considered as possessing some special quality or character"
+        },
+        {
+            "word": "theatre",
+            "definition": "A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public ceremonies, and so on."
+        },
+        {
+            "word": "recording",
+            "definition": "To make a record of information."
+        },
+        {
+            "word": "dance",
+            "definition": "A sequence of rhythmic steps or movements usually performed to music, for pleasure or as a form of social interaction."
+        },
+        {
+            "word": "classical",
+            "definition": "One that is classical in some way; for example, a classical economist."
+        },
+        {
+            "word": "musician",
+            "definition": "A composer, conductor, or performer of music; specifically, a person who sings and/or plays a musical instrument as a hobby, an occupation, or a profession."
+        },
+        {
+            "word": "guitar",
+            "definition": "A stringed musical instrument, of European origin, usually with a fretted fingerboard and six strings, played with the fingers or a plectrum (guitar pick)."
+        },
+        {
+            "word": "performing",
+            "definition": "To do something; to execute."
+        },
+        {
+            "word": "songwriter",
+            "definition": "A musician who composes songs; including writing the song's lyrics and creating a melody or tune for the song."
+        },
+        {
+            "word": "composer",
+            "definition": "One who composes; an author."
+        },
+        {
+            "word": "opera",
+            "definition": "A theatrical work, combining drama, music, song and sometimes dance."
+        },
+        {
+            "word": "piano",
+            "definition": "A percussive keyboard musical instrument, usually ranging over seven octaves, with white and black colored keys, played by pressing these keys, causing hammers to strike strings"
+        },
+        {
+            "word": "jazz",
+            "definition": "A musical art form rooted in West African cultural and musical expression and in the African American blues tradition, with diverse influences over time, commonly characterized by blue notes, syncopation, swing, call and response, polyrhythms and improvisation."
+        },
+        {
+            "word": "blues",
+            "definition": "The colour of the clear sky or the deep sea, between green and violet in the visible spectrum, and one of the primary additive colours for transmitted light; the colour obtained by subtracting red and green from white light using magenta and cyan filters; or any colour resembling this."
+        },
+        {
+            "word": "soundtrack",
+            "definition": "A narrow strip running down a movie film that carries the recorded sound in synchronization with the pictures."
+        },
+        {
+            "word": "singing",
+            "definition": "To produce musical or harmonious sounds with one\u2019s voice."
+        },
+        {
+            "word": "tone",
+            "definition": "A specific pitch."
+        },
+        {
+            "word": "orchestra",
+            "definition": "A large group of musicians who play together on various instruments, usually including some from strings, woodwind, brass and/or percussion; the instruments played by such a group."
+        },
+        {
+            "word": "sing",
+            "definition": "A gathering at which people sing songs."
+        },
+        {
+            "word": "rhythm",
+            "definition": "The variation of strong and weak elements (such as duration, accent) of sounds, notably in speech or music, over time; a beat or meter."
+        },
+        {
+            "word": "acoustic",
+            "definition": "A medicine or other agent to assist hearing."
+        },
+        {
+            "word": "instrument",
+            "definition": "A device used to produce music."
+        },
+        {
+            "word": "pitch",
+            "definition": "A sticky, gummy substance secreted by trees; sap."
+        },
+        {
+            "word": "graduation",
+            "definition": "The action or process of graduating and receiving a diploma for completing a course of study (such as from an educational institution)."
+        },
+        {
+            "word": "drum",
+            "definition": "A percussive musical instrument spanned with a thin covering on at least one end for striking, forming an acoustic chamber, affecting what materials are used to make it; a membranophone."
+        },
+        {
+            "word": "noise",
+            "definition": "Various sounds, usually unwanted or unpleasant."
+        },
+        {
+            "word": "choir",
+            "definition": "Singing group; group of people who sing together; company of people who are trained to sing together."
+        },
+        {
+            "word": "symphony",
+            "definition": "An extended piece of music of sophisticated structure, usually for orchestra."
+        },
+        {
+            "word": "harmony",
+            "definition": "Agreement or accord."
+        },
+        {
+            "word": "chorus",
+            "definition": "A group of singers and dancers in the religious festivals of ancient Greece."
+        },
+        {
+            "word": "violin",
+            "definition": "A musical four-string instrument, generally played with a bow or by plucking the string, with the pitch set by pressing the strings at the appropriate place with the fingers; also any instrument of the violin family."
+        },
+        {
+            "word": "melody",
+            "definition": "Tune; sequence of notes that makes up a musical phrase"
+        },
+        {
+            "word": "tune",
+            "definition": "A melody."
+        },
+        {
+            "word": "funk",
+            "definition": "Foul or unpleasant smell, especially body odor."
+        },
+        {
+            "word": "flute",
+            "definition": "A woodwind instrument consisting of a tube with a row of holes that produce sound through vibrations caused by air blown across the edge of the holes, often tuned by plugging one or more holes with a finger; the Western concert flute, a transverse side-blown flute of European origin."
+        },
+        {
+            "word": "classical music",
+            "definition": "Music of the classical period; the music of Mozart, Haydn, etc; the musical period before the romantic."
+        },
+        {
+            "word": "tempo",
+            "definition": "A frequency or rate."
+        },
+        {
+            "word": "groove",
+            "definition": "A long, narrow channel or depression; e.g., such a slot cut into a hard material to provide a location for an engineering component, a tyre groove, or a geological channel or depression."
+        },
+        {
+            "word": "lyric",
+            "definition": "A lyric poem."
+        },
+        {
+            "word": "popular music",
+            "definition": "Music intended for or accepted by a wide audience, usually with a commercial basis and distinguished from other genres such as classical music and folk music."
+        },
+        {
+            "word": "motif",
+            "definition": "A recurring or dominant element; a theme."
+        },
+        {
+            "word": "chord",
+            "definition": "A harmonic set of three or more notes that is heard as if sounding simultaneously."
+        },
+        {
+            "word": "melodic",
+            "definition": "Of, relating to, or having melody."
+        },
+        {
+            "word": "folk music",
+            "definition": "Any genre of music originating from the ethnic community of a specific region, often passed down through oral tradition, without recorded songwriters and possessing a clear purpose or social function."
+        },
+        {
+            "word": "techno",
+            "definition": "A repetitive style of music originally produced for use in a continuous DJ set. The central rhythmic component is most often in common time (4/4), where time is marked with a bass drum on each quarter note pulse, a backbeat played by snare or clap on the second and fourth pulses of the bar, and an open hi-hat sounding every second eighth note."
+        },
+        {
+            "word": "symphonic",
+            "definition": "Characteristic of a symphony"
+        },
+        {
+            "word": "sonata",
+            "definition": "A musical composition for one or a few instruments, one of which is frequently a piano, in three or four movements that vary in key and tempo."
+        },
+        {
+            "word": "string quartet",
+            "definition": "A group of four musicians playing string instruments, usually two violins, a viola and a cello."
+        },
+        {
+            "word": "accompaniment",
+            "definition": "A part, usually performed by instruments, that gives support or adds to the background in music, or adds for ornamentation; also, the harmony of a figured bass."
+        },
+        {
+            "word": "rhapsody",
+            "definition": "An ancient Greek epic poem (or part of one) suitable for uninterrupted recitation."
+        },
+        {
+            "word": "improvisation",
+            "definition": "The act or art of composing and making music, poetry, and the like, extemporaneously"
+        },
+        {
+            "word": "sheet music",
+            "definition": "Handwritten or printed form of musical notation."
+        },
+        {
+            "word": "karaoke",
+            "definition": "A form of entertainment popular in clubs, at parties, etc, in which individual members of the public sing along to pre-recorded instrumental versions of popular songs, the lyrics of which are displayed for the singer on a screen in time with the music."
+        },
+        {
+            "word": "soulful",
+            "definition": "Full of emotion and vigor."
+        },
+        {
+            "word": "fugue",
+            "definition": "A contrapuntal piece of music wherein a particular melody is played in a number of voices, each voice introduced in turn by playing the melody."
+        },
+        {
+            "word": "harmonize",
+            "definition": "To be in harmonious agreement."
+        },
+        {
+            "word": "orchestrate",
+            "definition": "To arrange or score music for performance by an orchestra."
+        },
+        {
+            "word": "atonal",
+            "definition": "Lacking a tonal center or key."
+        },
+        {
+            "word": "harmonise",
+            "definition": "To be in harmonious agreement."
+        },
+        {
+            "word": "audio",
+            "definition": "A sound, or a sound signal"
+        },
+        {
+            "word": "record",
+            "definition": "A disk, usually made of a polymer, used to record sound for playback on a phonograph."
+        },
+        {
+            "word": "vibe",
+            "definition": "A vibraphone."
+        },
+        {
+            "word": "media",
+            "definition": "The middle layer of the wall of a blood vessel or lymph vessel which is composed of connective and muscular tissue."
+        },
+        {
+            "word": "single",
+            "definition": "A 45 RPM vinyl record with one song on side A and one on side B."
+        },
+        {
+            "word": "party",
+            "definition": "A person or group of people constituting a particular side in a contract or legal action."
+        }
+    ],
+    "school": [
+        {
+            "word": "university",
+            "definition": "Institution of higher education (typically accepting students from the age of about 17 or 18, depending on country, but in some exceptional cases able to take younger students) where subjects are studied and researched in depth and degrees are offered."
+        },
+        {
+            "word": "learn",
+            "definition": "The act of learning something"
+        },
+        {
+            "word": "college",
+            "definition": "A corporate group; a group of colleagues."
+        },
+        {
+            "word": "education",
+            "definition": "The process of imparting knowledge, skill and judgment."
+        },
+        {
+            "word": "science",
+            "definition": "A particular discipline or branch of learning, especially one dealing with measurable or systematic principles rather than intuition or natural ability."
+        },
+        {
+            "word": "working",
+            "definition": "(usually in the plural) Operation; action."
+        },
+        {
+            "word": "library",
+            "definition": "An institution which holds books and/or other forms of media for use by the public or qualified people often lending them out, as well as providing various other services for its users."
+        },
+        {
+            "word": "academy",
+            "definition": "(usually capitalized) The garden where Plato taught."
+        },
+        {
+            "word": "reading",
+            "definition": "To look at and interpret letters or other information that is written."
+        },
+        {
+            "word": "youth",
+            "definition": "The quality or state of being young."
+        },
+        {
+            "word": "degree",
+            "definition": "A stage of proficiency or qualification in a course of study, now especially an award bestowed by a university or, in some countries, a college, as a certification of academic achievement. (In the United States, can include secondary schools.)"
+        },
+        {
+            "word": "writing",
+            "definition": "Graphism of symbols such as letters that express some meaning."
+        },
+        {
+            "word": "student",
+            "definition": "A person who studies or learns about a particular subject."
+        },
+        {
+            "word": "practice",
+            "definition": "Repetition of an activity to improve a skill."
+        },
+        {
+            "word": "graduated",
+            "definition": "To be recognized by a school or university as having completed the requirements of a degree studied at the institution."
+        },
+        {
+            "word": "teacher",
+            "definition": "A person who teaches, especially one employed in a school."
+        },
+        {
+            "word": "serves",
+            "definition": "An act of putting the ball or shuttlecock in play in various games."
+        },
+        {
+            "word": "learning",
+            "definition": "To acquire, or attempt to acquire knowledge or an ability to do something."
+        },
+        {
+            "word": "graduate",
+            "definition": "A person who is recognized by a university as having completed the requirements of a degree studied at the institution."
+        },
+        {
+            "word": "grade",
+            "definition": "A rating."
+        },
+        {
+            "word": "campus",
+            "definition": "The grounds or property of a school, college, university, business, church, or hospital, often understood to include buildings and other structures."
+        },
+        {
+            "word": "scholarship",
+            "definition": "A grant-in-aid to a student."
+        },
+        {
+            "word": "graduating",
+            "definition": "To be recognized by a school or university as having completed the requirements of a degree studied at the institution."
+        },
+        {
+            "word": "teach",
+            "definition": "To show (someone) the way; to guide, conduct; to point, indicate."
+        },
+        {
+            "word": "graduation",
+            "definition": "The action or process of graduating and receiving a diploma for completing a course of study (such as from an educational institution)."
+        },
+        {
+            "word": "curriculum",
+            "definition": "The set of courses, coursework, and their content, offered at a school or university."
+        },
+        {
+            "word": "elementary school",
+            "definition": "A school for children, typically older than toddlers and younger than adolescents. In the U.S., elementary schools cover grades 1 through 5, and the ages of the children are usually 6-11 years. At a minimum, elementary schools will teach basic reading, writing, arithmetic, and history. Historically also used in the UK."
+        },
+        {
+            "word": "primary school",
+            "definition": "The first formal, obligatory school. Usually begins with nursery school or first grade and ends at fifth or sixth grade."
+        },
+        {
+            "word": "public school",
+            "definition": "Certain private schools, particularly (initially) any grammar school operated apart from the personal lands of its students or (from the 19th century) the feepaying secondary schools which developed from or were modelled upon them; a British boarding school"
+        },
+        {
+            "word": "middle school",
+            "definition": "A school which crosses the traditional divide between primary school and secondary school"
+        },
+        {
+            "word": "gymnasium",
+            "definition": "A large room or building for indoor sports."
+        },
+        {
+            "word": "classroom",
+            "definition": "A room, often in a school, where classes take place"
+        },
+        {
+            "word": "grammar school",
+            "definition": "A school that teaches its pupils the grammar system of a European language, especially Latin and Greek."
+        },
+        {
+            "word": "gym",
+            "definition": "A sports facility specialized for lifting weights and exercise."
+        },
+        {
+            "word": "conservatory",
+            "definition": "That which preserves from injury."
+        },
+        {
+            "word": "varsity",
+            "definition": "University"
+        },
+        {
+            "word": "schooling",
+            "definition": "(of fish) To form into, or travel in a school."
+        },
+        {
+            "word": "kindergarten",
+            "definition": "An educational institution for young children, usually between ages 4 and 6; nursery school."
+        },
+        {
+            "word": "tutor",
+            "definition": "One who teaches another (usually called a student, learner, or tutee) in a one-on-one or small-group interaction."
+        },
+        {
+            "word": "educate",
+            "definition": "To instruct or train"
+        },
+        {
+            "word": "tuition",
+            "definition": "A sum of money paid for instruction (such as in a high school, boarding school, university, or college)."
+        },
+        {
+            "word": "private school",
+            "definition": "A fee-charging private or independent school."
+        },
+        {
+            "word": "classmate",
+            "definition": "A student who is in the same class at school."
+        },
+        {
+            "word": "scholastic",
+            "definition": "A member of the medieval philosophical school of scholasticism; a medieval Christian Aristotelian."
+        },
+        {
+            "word": "schoolhouse",
+            "definition": "A building housing a school, especially a small or single-room one."
+        },
+        {
+            "word": "day school",
+            "definition": "A school attended during the day, as opposed to a boarding school."
+        },
+        {
+            "word": "cultivate",
+            "definition": "To grow plants, notably crops"
+        },
+        {
+            "word": "schoolteacher",
+            "definition": "A teacher working in a school."
+        },
+        {
+            "word": "homework",
+            "definition": "Work that is done at home, especially school exercises assigned by a teacher."
+        },
+        {
+            "word": "blackboard",
+            "definition": "A large flat surface, finished with black slate or a similar material, that can be written upon with chalk and subsequently erased; a chalkboard."
+        },
+        {
+            "word": "schoolmate",
+            "definition": "A person who was a fellow attendee at one's school."
+        },
+        {
+            "word": "schoolyard",
+            "definition": "The grounds around a school."
+        },
+        {
+            "word": "schoolroom",
+            "definition": "A classroom, a room in a school used for instruction."
+        },
+        {
+            "word": "homeroom",
+            "definition": "A classroom where school pupils of the same age gather for registration, or for other purposes that are unrelated to class content."
+        },
+        {
+            "word": "coeducation",
+            "definition": "The education of male and female students in the same institution"
+        },
+        {
+            "word": "lunchroom",
+            "definition": "A room designated as a place to eat lunch."
+        },
+        {
+            "word": "schoolchild",
+            "definition": "A young person attending school or of an age to attend school."
+        },
+        {
+            "word": "work",
+            "definition": "(heading) Employment."
+        },
+        {
+            "word": "group",
+            "definition": "A number of things or persons being in some relation to one another."
+        },
+        {
+            "word": "childhood",
+            "definition": "The state of being a child."
+        },
+        {
+            "word": "going",
+            "definition": "To move:"
+        },
+        {
+            "word": "summer",
+            "definition": "One of four seasons, traditionally the second, marked by the longest and typically hottest days of the year due to the inclination of the Earth and thermal lag. Typically regarded as being from June 21 to September 22 or 23 in parts of the USA, the months of June, July and August in the United Kingdom and the months of December, January and February in the Southern Hemisphere."
+        },
+        {
+            "word": "beginning",
+            "definition": "The act of doing that which begins anything; commencement of an action, state, or space of time; entrance into being or upon a course; the first act, effort, or state of a succession of acts or states."
+        },
+        {
+            "word": "place",
+            "definition": "(physical) An area; somewhere within an area."
+        },
+        {
+            "word": "schoolgoing",
+            "definition": "Attending school."
+        },
+        {
+            "word": "living",
+            "definition": "To be alive; to have life."
+        },
+        {
+            "word": "career",
+            "definition": "One's calling in life; a person's occupation; one's profession."
+        },
+        {
+            "word": "department",
+            "definition": "A part, portion, or subdivision."
+        },
+        {
+            "word": "major",
+            "definition": "A military rank between captain and lieutenant colonel."
+        },
+        {
+            "word": "research",
+            "definition": "Diligent inquiry or examination to seek or revise facts, principles, theories, applications, etc.; laborious or continued search after truth."
+        },
+        {
+            "word": "course",
+            "definition": "A sequence of events."
+        },
+        {
+            "word": "local",
+            "definition": "A person who lives near a given place."
+        },
+        {
+            "word": "teen",
+            "definition": "A teenager."
+        }
+    ],
+    "science": [
+        {
+            "word": "state",
+            "definition": "A condition; a set of circumstances applying at any given time."
+        },
+        {
+            "word": "scientific",
+            "definition": "Of, or having to do with science."
+        },
+        {
+            "word": "field",
+            "definition": "A land area free of woodland, cities, and towns; open country."
+        },
+        {
+            "word": "development",
+            "definition": "The process of developing; growth, directed change."
+        },
+        {
+            "word": "research",
+            "definition": "Diligent inquiry or examination to seek or revise facts, principles, theories, applications, etc.; laborious or continued search after truth."
+        },
+        {
+            "word": "culture",
+            "definition": "The arts, customs, lifestyles, background, and habits that characterize a particular society or nation."
+        },
+        {
+            "word": "technology",
+            "definition": "The organization of knowledge for practical purposes."
+        },
+        {
+            "word": "nature",
+            "definition": "The natural world; that which consists of all things unaffected by or predating human technology, production, and design. (Compare ecosystem.)"
+        },
+        {
+            "word": "technical",
+            "definition": "A pickup truck with a gun mounted on it."
+        },
+        {
+            "word": "engineering",
+            "definition": "To design, construct or manage something as an engineer."
+        },
+        {
+            "word": "theory",
+            "definition": "A description of an event or system that is considered to be accurate."
+        },
+        {
+            "word": "medicine",
+            "definition": "A substance which specifically promotes healing when ingested or consumed in some way."
+        },
+        {
+            "word": "educational",
+            "definition": "A free (or low cost) trip for travel consultants, provided by a travel operator or airline as a means of promoting their service. A fam trip"
+        },
+        {
+            "word": "knowledge",
+            "definition": "The fact of knowing about something; general understanding or familiarity with a subject, place, situation etc."
+        },
+        {
+            "word": "philosophy",
+            "definition": "The love of wisdom."
+        },
+        {
+            "word": "biology",
+            "definition": "The study of all life or living matter."
+        },
+        {
+            "word": "chemistry",
+            "definition": "The branch of natural science that deals with the composition and constitution of substances and the changes that they undergo as a consequence of alterations in the constitution of their molecules."
+        },
+        {
+            "word": "scientist",
+            "definition": "One whose activities make use of the scientific method to answer questions regarding the measurable universe. A scientist may be involved in original research, or make use of the results of the research of others."
+        },
+        {
+            "word": "expert",
+            "definition": "A person with extensive knowledge or ability in a given subject."
+        },
+        {
+            "word": "physics",
+            "definition": "A medicine or drug, especially a cathartic or purgative."
+        },
+        {
+            "word": "discipline",
+            "definition": "A controlled behaviour; self-control."
+        },
+        {
+            "word": "renaissance",
+            "definition": "A rebirth or revival."
+        },
+        {
+            "word": "psychology",
+            "definition": "The study of the human mind."
+        },
+        {
+            "word": "ecology",
+            "definition": "The branch of biology dealing with the relationships of organisms with their environment and with each other."
+        },
+        {
+            "word": "archaeology",
+            "definition": "The study of the past by excavation and analysis of its material remains:"
+        },
+        {
+            "word": "geology",
+            "definition": "The science that studies the structure of the earth (or other planets), together with its origin and development, especially by examination of its rocks."
+        },
+        {
+            "word": "experiment",
+            "definition": "A test under controlled conditions made to either demonstrate a known truth, examine the validity of a hypothesis, or determine the efficacy of something previously untried."
+        },
+        {
+            "word": "observation",
+            "definition": "The act of observing, and the fact of being observed (see observance)"
+        },
+        {
+            "word": "comparative",
+            "definition": "(grammar) A construction showing a relative quality, in English usually formed by adding more or appending -er. For example, the comparative of green is greener; of evil, more evil."
+        },
+        {
+            "word": "phenomenon",
+            "definition": "A thing or being, event or process, perceptible through senses; or a fact or occurrence thereof."
+        },
+        {
+            "word": "nose",
+            "definition": "A protuberance on the face housing the nostrils, which are used to breathe or smell."
+        },
+        {
+            "word": "astronomy",
+            "definition": "The study of the physical universe beyond the Earth's atmosphere, including the process of mapping locations and properties of the matter and radiation in the universe."
+        },
+        {
+            "word": "math",
+            "definition": "A mowing; what is gathered from mowing."
+        },
+        {
+            "word": "sociology",
+            "definition": "The study of society, human social interaction and the rules and processes that bind and separate people not only as individuals, but as members of associations, groups and institutions"
+        },
+        {
+            "word": "biotechnology",
+            "definition": "The use of living organisms (especially microorganisms) in industrial, agricultural, medical and other technological applications."
+        },
+        {
+            "word": "anthropology",
+            "definition": "The holistic scientific and social study of humanity, mainly using ethnography as its method."
+        },
+        {
+            "word": "botany",
+            "definition": "The scientific study of plants, a branch of biology. Typically those disciplines that involve the whole plant."
+        },
+        {
+            "word": "geometry",
+            "definition": "The branch of mathematics dealing with spatial relationships."
+        },
+        {
+            "word": "zoology",
+            "definition": "The part of biology relating to the animal kingdom, including the structure, embryology, evolution, classification, habits, and distribution of all animals, both living and extinct."
+        },
+        {
+            "word": "naturalist",
+            "definition": "(except as merged with later senses) A natural philosopher; a scientist."
+        },
+        {
+            "word": "social science",
+            "definition": "A branch of science that studies the society and human behavior in it, including anthropology, communication studies, criminology, economics, geography, history, political science, psychology, social studies, and sociology."
+        },
+        {
+            "word": "neuroscience",
+            "definition": "The scientific study of the nervous system."
+        },
+        {
+            "word": "cosmology",
+            "definition": "The study of the physical universe, its structure, dynamics, origin and evolution, and fate."
+        },
+        {
+            "word": "biomedical",
+            "definition": "A product of the biomedicine industry."
+        },
+        {
+            "word": "archeology",
+            "definition": "The study of the past by excavation and analysis of its material remains:"
+        },
+        {
+            "word": "natural science",
+            "definition": "Any science involved in studying phenomena or laws of the physical world: physics, chemistry, biology, astronomy, and so on."
+        },
+        {
+            "word": "nanotechnology",
+            "definition": "The science and technology of creating nanoparticles and of manufacturing machines which have sizes within the range of nanometres."
+        },
+        {
+            "word": "bioscience",
+            "definition": "Any of several sciences that deal with living organisms"
+        },
+        {
+            "word": "natural selection",
+            "definition": "A process by which heritable traits conferring survival and reproductive advantage to individuals, or related individuals, tend to be passed on to succeeding generations and become more frequent in a population, whereas other less favourable traits tend to become eliminated; the differential survival and reproduction of phenotypes."
+        },
+        {
+            "word": "metrology",
+            "definition": "The science of weights and measures or of measurement."
+        },
+        {
+            "word": "peer review",
+            "definition": "The scholarly process whereby manuscripts intended to be published in an academic journal are reviewed by independent researchers (referees) to evaluate the contribution, i.e. the importance, novelty and accuracy of the manuscript's contents."
+        },
+        {
+            "word": "seismology",
+            "definition": "The study of the vibration of the Earth's interior caused by natural and unnatural sources, such as earthquakes."
+        },
+        {
+            "word": "rocketry",
+            "definition": "The making and launching of rockets, its science and practice."
+        },
+        {
+            "word": "thermochemistry",
+            "definition": "The study of the thermodynamics of chemical reactions."
+        },
+        {
+            "word": "histochemistry",
+            "definition": "The branch of histology dealing with the chemistry of cells and tissues."
+        },
+        {
+            "word": "nanotech",
+            "definition": "The science and technology of creating nanoparticles and of manufacturing machines which have sizes within the range of nanometres."
+        },
+        {
+            "word": "metamathematics",
+            "definition": "A branch of mathematics dealing with mathematical systems and their nature."
+        },
+        {
+            "word": "cryobiology",
+            "definition": "The study of the effects of low temperature on living organisms"
+        },
+        {
+            "word": "agrobiology",
+            "definition": "The science of plant life and nutrition."
+        },
+        {
+            "word": "health",
+            "definition": "The state of being free from physical or psychological disease, illness, or malfunction; wellness."
+        },
+        {
+            "word": "analytics",
+            "definition": "The principles governing any of various forms of analysis."
+        },
+        {
+            "word": "data",
+            "definition": "(plural: data) A measurement of something on a scale understood by both the recorder (a person or device) and the reader (another person or device). The scale is arbitrarily defined, such as from 1 to 10 by ones, 1 to 100 by 0.1, or simply true or false, on or off, yes, no, or maybe, etc."
+        },
+        {
+            "word": "tech",
+            "definition": "Technology"
+        },
+        {
+            "word": "space",
+            "definition": "(heading) Of time."
+        },
+        {
+            "word": "medical",
+            "definition": "A medical examination."
+        },
+        {
+            "word": "computer",
+            "definition": "A person employed to perform computations; one who computes."
+        },
+        {
+            "word": "electrical",
+            "definition": "An electrical engineer."
+        },
+        {
+            "word": "big",
+            "definition": "Someone or something that is large in stature"
+        },
+        {
+            "word": "numbers",
+            "definition": "An abstract entity used to describe quantity."
+        },
+        {
+            "word": "chemical",
+            "definition": "Any specific chemical element or chemical compound or alloy."
+        },
+        {
+            "word": "fantasy",
+            "definition": "That which comes from one's imagination."
+        }
+    ],
+    "social media": [
+        {
+            "word": "website",
+            "definition": "A collection of interlinked web pages on the World Wide Web that are typically accessible from the same base URL and reside on the same server."
+        },
+        {
+            "word": "group",
+            "definition": "A number of things or persons being in some relation to one another."
+        },
+        {
+            "word": "public",
+            "definition": "The people in general, regardless of membership of any particular group."
+        },
+        {
+            "word": "data",
+            "definition": "(plural: data) A measurement of something on a scale understood by both the recorder (a person or device) and the reader (another person or device). The scale is arbitrarily defined, such as from 1 to 10 by ones, 1 to 100 by 0.1, or simply true or false, on or off, yes, no, or maybe, etc."
+        },
+        {
+            "word": "society",
+            "definition": "A long-standing group of people sharing cultural aspects such as language, dress, norms of behavior and artistic forms."
+        },
+        {
+            "word": "party",
+            "definition": "A person or group of people constituting a particular side in a contract or legal action."
+        },
+        {
+            "word": "business",
+            "definition": "A specific commercial enterprise or establishment."
+        },
+        {
+            "word": "social",
+            "definition": "A festive gathering to foster introductions."
+        },
+        {
+            "word": "event",
+            "definition": "An occurrence; something that happens."
+        },
+        {
+            "word": "network",
+            "definition": "A fabric or structure of fibrous elements attached to each other at regular intervals."
+        },
+        {
+            "word": "database",
+            "definition": "(general) A collection of (usually) organized information in a regular structure, usually but not necessarily in a machine-readable format accessible by a computer."
+        },
+        {
+            "word": "cultural",
+            "definition": "Pertaining to culture."
+        },
+        {
+            "word": "festival",
+            "definition": "An event or community gathering, usually staged by a local community, which centers on some theme, sometimes on some unique aspect of the community."
+        },
+        {
+            "word": "internet",
+            "definition": "Any set of computer networks that communicate using the Internet Protocol. (An intranet.)"
+        },
+        {
+            "word": "google",
+            "definition": "To deliver googlies."
+        },
+        {
+            "word": "youtube",
+            "definition": "Any website that allows users to upload content, particularly YouTube itself."
+        },
+        {
+            "word": "reach",
+            "definition": "The act of stretching or extending; extension."
+        },
+        {
+            "word": "computer",
+            "definition": "A person employed to perform computations; one who computes."
+        },
+        {
+            "word": "telegraph",
+            "definition": "An apparatus, or a process, for communicating rapidly between distant points, especially by means of established visible or audible signals representing words or ideas, or by means of words and signs, transmitted by electrical means."
+        },
+        {
+            "word": "reporter",
+            "definition": "Someone or something that reports."
+        },
+        {
+            "word": "blog",
+            "definition": "A website that allows users to reflect, share opinions, and discuss various topics in the form of an online journal, sometimes letting readers comment on their posts. Most blogs are written in a slightly informal tone (personal journals, news, businesses, etc.)"
+        },
+        {
+            "word": "software",
+            "definition": "Encoded computer instructions, usually modifiable (unless stored in some form of unalterable memory such as ROM)."
+        },
+        {
+            "word": "birthday",
+            "definition": "The anniversary of the day on which someone is born."
+        },
+        {
+            "word": "facebook",
+            "definition": "To use the social-networking site Facebook."
+        },
+        {
+            "word": "twitter",
+            "definition": "(sometimes proscribed) To tweet; to post an update to Twitter."
+        },
+        {
+            "word": "social networks",
+            "definition": "A network of personal or business contacts, especially as facilitated by social networking on the Internet."
+        },
+        {
+            "word": "activist",
+            "definition": "One who is politically active in the role of a citizen; especially, one who campaigns for change."
+        },
+        {
+            "word": "phone",
+            "definition": "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of running software etc."
+        },
+        {
+            "word": "user",
+            "definition": "One who uses or makes use of something, a consumer/client or an express or implied licensee (free user) or a trespasser."
+        },
+        {
+            "word": "telephone",
+            "definition": "A telecommunication device (originally mechanical, and now electronic) used for two-way talking with another person (now often shortened to phone)."
+        },
+        {
+            "word": "politically",
+            "definition": "In a political manner"
+        },
+        {
+            "word": "sociology",
+            "definition": "The study of society, human social interaction and the rules and processes that bind and separate people not only as individuals, but as members of associations, groups and institutions"
+        },
+        {
+            "word": "publicity",
+            "definition": "Advertising or other activity designed to rouse public interest in something."
+        },
+        {
+            "word": "socially",
+            "definition": "In a social manner; sociably."
+        },
+        {
+            "word": "cyber",
+            "definition": "Everything having to do with the Internet considered collectively."
+        },
+        {
+            "word": "manifesto",
+            "definition": "A public declaration of principles, policies, or intentions, especially that of a political party."
+        },
+        {
+            "word": "bilateral",
+            "definition": "A meeting between two people or groups."
+        },
+        {
+            "word": "processor",
+            "definition": "A person or institution who processes things (foods, photos, applications, etc.)."
+        },
+        {
+            "word": "login",
+            "definition": "A combination of a user's identification and password used to enter a computer, program, network, etc."
+        },
+        {
+            "word": "social network",
+            "definition": "A network of personal or business contacts, especially as facilitated by social networking on the Internet."
+        },
+        {
+            "word": "modem",
+            "definition": "A device that encodes digital computer signals into analog/analogue telephone signals and vice versa and allows computers to communicate over a phone line."
+        },
+        {
+            "word": "jamboree",
+            "definition": "A boisterous or lavish celebration or party."
+        },
+        {
+            "word": "cyberspace",
+            "definition": "A world of information accessed through the Internet."
+        },
+        {
+            "word": "mainframe",
+            "definition": "A large, powerful computer able to manage very many simultaneous tasks and communicate with very many connected terminals; used by large, complex organizations (such as banks and supermarkets) where continuously sustained operation is vital"
+        },
+        {
+            "word": "webcam",
+            "definition": "A video camera whose output may be viewed in real time over a computer network, especially over the World Wide Web."
+        },
+        {
+            "word": "viral marketing",
+            "definition": "A technique aiming at reproducing \"word of mouth\", usually on the internet or by e-mail, for humorous, political or marketing purposes."
+        },
+        {
+            "word": "sociable",
+            "definition": "A sociable person."
+        },
+        {
+            "word": "multiparty",
+            "definition": "Involving several different political parties."
+        },
+        {
+            "word": "festivity",
+            "definition": "(often pluralized) A festival or similar celebration."
+        },
+        {
+            "word": "newsgroup",
+            "definition": "A repository on a computer network where people can post messages, usually about a single subject."
+        },
+        {
+            "word": "cybercrime",
+            "definition": "Crime committed using computer networks."
+        },
+        {
+            "word": "intranet",
+            "definition": "A private computer network, typically one that uses the protocols of the Internet."
+        },
+        {
+            "word": "telnet",
+            "definition": "A network protocol that enables one computer to communicate with another via the Internet; the program that acts as the client in this situation"
+        },
+        {
+            "word": "minicomputer",
+            "definition": "A computer smaller than a mainframe, but larger than a microcomputer."
+        },
+        {
+            "word": "cyberterrorism",
+            "definition": "The deliberate, large-scale disruption of networks of computers, especially of personal computers attached to the Internet, by means of viruses etc."
+        },
+        {
+            "word": "techie",
+            "definition": "One who works with, or has an interest in, technology or computers."
+        },
+        {
+            "word": "microblogging",
+            "definition": "To post on a microblog."
+        },
+        {
+            "word": "doof",
+            "definition": "A simpleton."
+        }
+    ],
+    "sports": [
+        {
+            "word": "team",
+            "definition": "A set of draught animals, such as two horses in front of a carriage."
+        },
+        {
+            "word": "league",
+            "definition": "A group or association of cooperating members."
+        },
+        {
+            "word": "football",
+            "definition": "(general) A sport played on foot in which teams attempt to get a ball into a goal or zone defended by the other team."
+        },
+        {
+            "word": "game",
+            "definition": "A playful or competitive activity."
+        },
+        {
+            "word": "competition",
+            "definition": "The action of competing."
+        },
+        {
+            "word": "feature",
+            "definition": "One's structure or make-up: form, shape, bodily proportions."
+        },
+        {
+            "word": "coach",
+            "definition": "A wheeled vehicle, generally drawn by horse power."
+        },
+        {
+            "word": "entertainment",
+            "definition": "An activity designed to give pleasure, enjoyment, diversion, amusement, or relaxation to an audience, no matter whether the audience participates passively as in watching opera or a movie, or actively as in games."
+        },
+        {
+            "word": "association football",
+            "definition": "A ball game played between two teams of eleven players, each attempting to win by scoring more goals than their opponent."
+        },
+        {
+            "word": "champion",
+            "definition": "An ongoing winner in a game or contest."
+        },
+        {
+            "word": "defense",
+            "definition": "The action of defending or protecting from attack, danger, or injury."
+        },
+        {
+            "word": "basketball",
+            "definition": "A sport in which two opposing teams of five players strive to put a ball through a hoop."
+        },
+        {
+            "word": "athletes",
+            "definition": "A participant in a group of sporting activities which includes track and field, road running, cross country running and racewalking."
+        },
+        {
+            "word": "athletic",
+            "definition": "Having to do with athletes."
+        },
+        {
+            "word": "racing",
+            "definition": "To take part in a race (in the sense of a contest)."
+        },
+        {
+            "word": "soccer",
+            "definition": "Association football"
+        },
+        {
+            "word": "tennis",
+            "definition": "A sport played by two players (or four in doubles), who alternately strike the ball over a net using racquets."
+        },
+        {
+            "word": "hockey",
+            "definition": "Ice hockey, a game on ice in which two teams of six players skate and try to score by shooting a puck into the opposing team's net, using their sticks."
+        },
+        {
+            "word": "cricket",
+            "definition": "An insect in the order Orthoptera, especially family Gryllidae, that makes a chirping sound by rubbing its wing casings against combs on its hind legs."
+        },
+        {
+            "word": "amateur",
+            "definition": "A lover of something."
+        },
+        {
+            "word": "rugby",
+            "definition": "(usually uncountable) A form of football in which players can hold or kick an ovoid ball. The ball cannot be handled forwards and points are scored by touching the ball to the ground in the area past their opponent\u2019s territory or kicking the ball between goalposts and over a crossbar."
+        },
+        {
+            "word": "athlete",
+            "definition": "A participant in a group of sporting activities which includes track and field, road running, cross country running and racewalking."
+        },
+        {
+            "word": "fun",
+            "definition": "Amusement, enjoyment or pleasure"
+        },
+        {
+            "word": "recreation",
+            "definition": "Any activity, such as play, that amuses, diverts or stimulates."
+        },
+        {
+            "word": "referee",
+            "definition": "An umpire or judge; an official who makes sure the rules are followed during a game."
+        },
+        {
+            "word": "cycling",
+            "definition": "To ride a bicycle or other cycle."
+        },
+        {
+            "word": "rugby union",
+            "definition": "A form of the game of rugby, historically amateur, having 15 players per side; points are scored for a try, penalty, drop kick or conversion."
+        },
+        {
+            "word": "pack",
+            "definition": "A bundle made up and prepared to be carried; especially, a bundle to be carried on the back, but also a load for an animal, a bale."
+        },
+        {
+            "word": "polo",
+            "definition": "A ball game where two teams of players on horseback use long-handled mallets to propel the ball along the ground and into their opponent's goal."
+        },
+        {
+            "word": "ski",
+            "definition": "One of a pair of long flat runners designed for gliding over snow or water"
+        },
+        {
+            "word": "fitness",
+            "definition": "The condition of being fit, suitable or appropriate."
+        },
+        {
+            "word": "skiing",
+            "definition": "To move on skis"
+        },
+        {
+            "word": "competitor",
+            "definition": "A person or organization against whom one is competing."
+        },
+        {
+            "word": "skating",
+            "definition": "To move along a surface (ice or ground) using skates."
+        },
+        {
+            "word": "spectator",
+            "definition": "One who watches an event; especially, one held outdoors."
+        },
+        {
+            "word": "judo",
+            "definition": "A Japanese martial art and sport adapted from jujutsu."
+        },
+        {
+            "word": "archery",
+            "definition": "The practice or sport of shooting arrows with a bow."
+        },
+        {
+            "word": "sportsman",
+            "definition": "A man who engages in sports; a male athlete."
+        },
+        {
+            "word": "diversion",
+            "definition": "A tactic used to draw attention away from the real threat or action."
+        },
+        {
+            "word": "lark",
+            "definition": "Any of various small, singing passerine birds of the family Alaudidae."
+        },
+        {
+            "word": "spar",
+            "definition": "A rafter of a roof."
+        },
+        {
+            "word": "snowboarding",
+            "definition": "To ride a snowboard."
+        },
+        {
+            "word": "dexterity",
+            "definition": "Skill in performing tasks, especially with the hands."
+        },
+        {
+            "word": "equestrianism",
+            "definition": "The art or sport of riding horses."
+        },
+        {
+            "word": "skateboard",
+            "definition": "A narrow, wooden or plastic platform mounted on pairs of wheels, on which one stands and propels oneself by pushing along the ground with one foot."
+        },
+        {
+            "word": "offside",
+            "definition": "An offside play."
+        },
+        {
+            "word": "roller derby",
+            "definition": "A sport based on teams of roller skaters who race round a track, jamming and blocking each other."
+        },
+        {
+            "word": "frolic",
+            "definition": "Gaiety; merriment."
+        },
+        {
+            "word": "downfield",
+            "definition": "Toward the defending team's end of the playing field"
+        },
+        {
+            "word": "surfboard",
+            "definition": "A shaped waterproof plank, usually made of wood or foam and reinforced plastic, used to surf on waves."
+        },
+        {
+            "word": "wakeboarding",
+            "definition": "A water sport where a rider on a small board is towed by a motor boat, attached by a cable."
+        },
+        {
+            "word": "equitation",
+            "definition": "The art, practice or act of riding a horse; horsemanship."
+        },
+        {
+            "word": "spectator sport",
+            "definition": "A sporting activity which has a relatively high ratio of watchers to direct participants."
+        },
+        {
+            "word": "water sport",
+            "definition": "Any sport played on or in water; such as swimming or water skiing."
+        },
+        {
+            "word": "contact sport",
+            "definition": "An athletic contest which involves a significant amount of physical contact between the participating athletes."
+        },
+        {
+            "word": "rugger",
+            "definition": "Rugby"
+        },
+        {
+            "word": "witticism",
+            "definition": "A witty remark"
+        },
+        {
+            "word": "activity",
+            "definition": "The state or quality of being active; activeness."
+        },
+        {
+            "word": "hobby",
+            "definition": "An activity that one enjoys doing in one's spare time."
+        },
+        {
+            "word": "skill",
+            "definition": "Capacity to do something well; technique, ability. Skills are usually acquired or learned, as opposed to abilities, which are often thought of as innate."
+        },
+        {
+            "word": "performance",
+            "definition": "The act of performing; carrying into execution or action; execution; achievement; accomplishment; representation by action."
+        },
+        {
+            "word": "show",
+            "definition": "A play, dance, or other entertainment."
+        },
+        {
+            "word": "safari",
+            "definition": "A trip into any undeveloped area to see, photograph or hunt wild animals in their own environment."
+        },
+        {
+            "word": "exercise",
+            "definition": "Any activity designed to develop or hone a skill or ability."
+        },
+        {
+            "word": "active",
+            "definition": "A person or thing that is acting or capable of acting."
+        },
+        {
+            "word": "fighting",
+            "definition": "To contend in physical conflict, either singly or in war, battle etc."
+        },
+        {
+            "word": "gym",
+            "definition": "A sports facility specialized for lifting weights and exercise."
+        },
+        {
+            "word": "physical",
+            "definition": "Physical examination."
+        },
+        {
+            "word": "health",
+            "definition": "The state of being free from physical or psychological disease, illness, or malfunction; wellness."
+        },
+        {
+            "word": "limited",
+            "definition": "To restrict; not to allow to go beyond a certain bound, to set boundaries."
+        },
+        {
+            "word": "company",
+            "definition": "A team; a group of people who work together professionally."
+        },
+        {
+            "word": "esport",
+            "definition": "Electronic sport"
+        },
+        {
+            "word": "muscle",
+            "definition": "A contractile form of tissue which animals use to effect movement."
+        },
+        {
+            "word": "hunting",
+            "definition": "The act of finding and killing a wild animal, either for sport or with the intention of using its parts to make food, clothes, etc."
+        },
+        {
+            "word": "movement",
+            "definition": "Physical motion between points in space."
+        },
+        {
+            "word": "diver",
+            "definition": "Someone who dives, especially as a sport."
+        }
+    ],
+    "transports": [
+        {
+            "word": "road",
+            "definition": "A way used for travelling between places, originally one wide enough to allow foot passengers and horses to travel, now (US) usually one surfaced with asphalt or concrete and designed to accommodate many vehicles travelling in both directions. In the UK both senses are heard: a country road is the same as a country lane."
+        },
+        {
+            "word": "air",
+            "definition": "The substance constituting earth's atmosphere, particularly:"
+        },
+        {
+            "word": "railway",
+            "definition": "A transport system using rails used to move passengers or goods."
+        },
+        {
+            "word": "move",
+            "definition": "The act of moving; a movement."
+        },
+        {
+            "word": "port",
+            "definition": "A place on the coast at which ships can shelter, or dock to load and unload cargo or passengers."
+        },
+        {
+            "word": "channel",
+            "definition": "The physical confine of a river or slough, consisting of a bed and banks."
+        },
+        {
+            "word": "travel",
+            "definition": "The act of traveling; passage from place to place."
+        },
+        {
+            "word": "train",
+            "definition": "Elongated portion."
+        },
+        {
+            "word": "ship",
+            "definition": "A water-borne vessel generally larger than a boat."
+        },
+        {
+            "word": "bring",
+            "definition": "(ditransitive) To transport toward somebody/somewhere."
+        },
+        {
+            "word": "transportation",
+            "definition": "The act of transporting, or the state of being transported; conveyance, often of people, goods etc."
+        },
+        {
+            "word": "drive",
+            "definition": "Motivation to do or achieve something; ability coupled with ambition."
+        },
+        {
+            "word": "airport",
+            "definition": "An airfield (an area designated for the takeoff and landing of aircraft), including one or more runways and (for commercial airports) one or more passenger terminals."
+        },
+        {
+            "word": "equipment",
+            "definition": "The act of equipping, or the state of being equipped, as for a voyage or expedition."
+        },
+        {
+            "word": "supply",
+            "definition": "The act of supplying."
+        },
+        {
+            "word": "vehicle",
+            "definition": "A conveyance; a device for carrying or transporting substances, objects or individuals."
+        },
+        {
+            "word": "transfer",
+            "definition": "The act of conveying or removing something from one place, person or thing to another."
+        },
+        {
+            "word": "rail",
+            "definition": "A horizontal bar extending between supports and used for support or as a barrier; a railing."
+        },
+        {
+            "word": "bus",
+            "definition": "A motor vehicle for transporting large numbers of people along roads."
+        },
+        {
+            "word": "ships",
+            "definition": "A water-borne vessel generally larger than a boat."
+        },
+        {
+            "word": "traffic",
+            "definition": "Pedestrians or vehicles on roads, or the flux or passage thereof."
+        },
+        {
+            "word": "carry",
+            "definition": "A manner of transporting or lifting something; the grip or position in which something is carried."
+        },
+        {
+            "word": "mobile",
+            "definition": "A kinetic sculpture or decorative arrangement made of items hanging so that they can move independently from each other."
+        },
+        {
+            "word": "infrastructure",
+            "definition": "(systems theory) An underlying base or foundation especially for an organization or system."
+        },
+        {
+            "word": "passenger",
+            "definition": "One who rides or travels in a vehicle, but who does not operate it and is not a member of the crew."
+        },
+        {
+            "word": "aviation",
+            "definition": "The art or science of making and flying aircraft."
+        },
+        {
+            "word": "canal",
+            "definition": "An artificial waterway or artificially improved river used for travel, shipping, or irrigation."
+        },
+        {
+            "word": "fuel",
+            "definition": "Substance consumed to provide energy through combustion, or through chemical or nuclear reaction."
+        },
+        {
+            "word": "send",
+            "definition": "The rising motion of water as a wave passes; a surge; the upward angular displacement of a vessel, opposed to pitch, the correlative downward movement."
+        },
+        {
+            "word": "wheel",
+            "definition": "A circular device capable of rotating on its axis, facilitating movement or transportation or performing labour in machines."
+        },
+        {
+            "word": "porter",
+            "definition": "A person who carries luggage and related objects."
+        },
+        {
+            "word": "ferry",
+            "definition": "A ship used to transport people, smaller vehicles and goods from one port to another, usually on a regular schedule."
+        },
+        {
+            "word": "cargo",
+            "definition": "Freight carried by a ship, aircraft, or motor vehicle."
+        },
+        {
+            "word": "hub",
+            "definition": "The central part, usually cylindrical, of a wheel; the nave."
+        },
+        {
+            "word": "truck",
+            "definition": "A small wheel or roller, specifically the wheel of a gun carriage."
+        },
+        {
+            "word": "shipping",
+            "definition": "The transportation of goods."
+        },
+        {
+            "word": "carrier",
+            "definition": "A person or object that carries someone or something else."
+        },
+        {
+            "word": "lift",
+            "definition": "An act of lifting or raising."
+        },
+        {
+            "word": "navigation",
+            "definition": "The theory, practice and technology of charting a course for a ship, aircraft or spaceship or (colloquially) road vehicle."
+        },
+        {
+            "word": "freight",
+            "definition": "Payment for transportation."
+        },
+        {
+            "word": "petroleum",
+            "definition": "A flammable liquid ranging in color from clear to very dark brown and black, consisting mainly of hydrocarbons, occurring naturally in deposits under the Earth's surface"
+        },
+        {
+            "word": "delight",
+            "definition": "Joy; pleasure."
+        },
+        {
+            "word": "airplane",
+            "definition": "A powered heavier-than-air aircraft with fixed wings."
+        },
+        {
+            "word": "public transport",
+            "definition": "Any form of transport that can be used by a member of public (who usually pays a fare); as opposed to private ownership of e.g. cars."
+        },
+        {
+            "word": "tram",
+            "definition": "A passenger vehicle for public use that runs on tracks in the road (called a streetcar or trolley in North America)."
+        },
+        {
+            "word": "propeller",
+            "definition": "One who, or that which, propels."
+        },
+        {
+            "word": "relocation",
+            "definition": "The act of moving from one place to another."
+        },
+        {
+            "word": "convey",
+            "definition": "To move (something) from one place to another."
+        },
+        {
+            "word": "cart",
+            "definition": "A small, open, wheeled vehicle, drawn or pushed by a person or animal, more often used for transporting goods than passengers."
+        },
+        {
+            "word": "dolly",
+            "definition": "A doll."
+        },
+        {
+            "word": "globalization",
+            "definition": "The process of becoming a more interconnected world."
+        },
+        {
+            "word": "barge",
+            "definition": "A large flat-bottomed towed or self-propelled boat used mainly for river and canal transport of heavy goods or bulk cargo."
+        },
+        {
+            "word": "transmit",
+            "definition": "To send or convey something from one person, place or thing to another."
+        },
+        {
+            "word": "transporter",
+            "definition": "One who, or that which transports."
+        },
+        {
+            "word": "seaport",
+            "definition": "A town or harbour with facilities for seagoing ships to dock and take on or discharge cargo."
+        },
+        {
+            "word": "airlift",
+            "definition": "The transportation of troops, civilians or supplies by air, especially in an emergency."
+        },
+        {
+            "word": "hauling",
+            "definition": "To transport by drawing or pulling, as with horses or oxen, or a motor vehicle."
+        },
+        {
+            "word": "resettlement",
+            "definition": "The transportation of a group of people to a new settlement"
+        },
+        {
+            "word": "displace",
+            "definition": "To put out of place; to disarrange."
+        },
+        {
+            "word": "teleport",
+            "definition": "A teleporter."
+        },
+        {
+            "word": "conveyance",
+            "definition": "An act or instance of conveying."
+        },
+        {
+            "word": "carry over",
+            "definition": "To transfer (something) to a later point in time."
+        },
+        {
+            "word": "enchant",
+            "definition": "To attract and delight, to charm."
+        },
+        {
+            "word": "wheelbarrow",
+            "definition": "A small, one-wheeled (rarely two-wheeled) cart with handles at one end for transporting small loads."
+        },
+        {
+            "word": "ravish",
+            "definition": "To seize and carry away by violence; to snatch by force."
+        },
+        {
+            "word": "support",
+            "definition": "(sometimes attributive) Something which supports."
+        },
+        {
+            "word": "creates",
+            "definition": "To bring into existence; (sometimes in particular:)"
+        },
+        {
+            "word": "advect",
+            "definition": "To transport (something) by advection."
+        }
+    ],
+    "travel": [
+        {
+            "word": "business",
+            "definition": "A specific commercial enterprise or establishment."
+        },
+        {
+            "word": "trade",
+            "definition": "Buying and selling of goods and services on a market."
+        },
+        {
+            "word": "movement",
+            "definition": "Physical motion between points in space."
+        },
+        {
+            "word": "tour",
+            "definition": "A journey through a particular building, estate, country, etc."
+        },
+        {
+            "word": "transport",
+            "definition": "An act of transporting; conveyance."
+        },
+        {
+            "word": "move",
+            "definition": "The act of moving; a movement."
+        },
+        {
+            "word": "transportation",
+            "definition": "The act of transporting, or the state of being transported; conveyance, often of people, goods etc."
+        },
+        {
+            "word": "drive",
+            "definition": "Motivation to do or achieve something; ability coupled with ambition."
+        },
+        {
+            "word": "offer",
+            "definition": "A proposal that has been made."
+        },
+        {
+            "word": "journey",
+            "definition": "A set amount of travelling, seen as a single unit; a discrete trip, a voyage."
+        },
+        {
+            "word": "fly",
+            "definition": "Any insect of the order Diptera; characterized by having two wings (except for some wingless species), also called true flies."
+        },
+        {
+            "word": "trip",
+            "definition": "A journey; an excursion or jaunt"
+        },
+        {
+            "word": "tourism",
+            "definition": "The act of travelling or sightseeing, particularly away from one's home."
+        },
+        {
+            "word": "tourist",
+            "definition": "Someone who travels for pleasure rather than for business."
+        },
+        {
+            "word": "adventure",
+            "definition": "The encountering of risks; a bold undertaking, in which dangers are likely to be encountered, and the issue is staked upon unforeseen events; a daring feat."
+        },
+        {
+            "word": "exploration",
+            "definition": "The process of exploring."
+        },
+        {
+            "word": "voyage",
+            "definition": "A long journey, especially by ship."
+        },
+        {
+            "word": "cruise",
+            "definition": "A sea or lake voyage, especially one taken for pleasure."
+        },
+        {
+            "word": "passport",
+            "definition": "An official document normally used for international journeys, which proves the identity and nationality of the person for whom it was issued."
+        },
+        {
+            "word": "leisure",
+            "definition": "Freedom provided by the cessation of activities."
+        },
+        {
+            "word": "visa",
+            "definition": "A permit to enter and leave a country, normally issued by the authorities of the country to be visited."
+        },
+        {
+            "word": "accommodation",
+            "definition": "(usually a mass noun) Lodging in a dwelling or similar living quarters afforded to travellers in hotels or on cruise ships, or prisoners, etc."
+        },
+        {
+            "word": "vacation",
+            "definition": "Freedom from some business or activity."
+        },
+        {
+            "word": "airline",
+            "definition": "A company that flies airplanes to transport people and goods."
+        },
+        {
+            "word": "pilgrimage",
+            "definition": "A journey made to a sacred place, or a religious journey."
+        },
+        {
+            "word": "trek",
+            "definition": "A journey by ox wagon."
+        },
+        {
+            "word": "odyssey",
+            "definition": "An extended adventurous voyage."
+        },
+        {
+            "word": "camping",
+            "definition": "To live in a tent or similar temporary accommodation."
+        },
+        {
+            "word": "commuting",
+            "definition": "To exchange substantially; to abate but not abolish completely, a penalty, obligation, or payment in return for a great, single thing or an aggregate; to cash in; to lessen"
+        },
+        {
+            "word": "caravan",
+            "definition": "A convoy or procession of travelers, their vehicles and cargo, and any pack animals, especially camels crossing a desert."
+        },
+        {
+            "word": "traveller",
+            "definition": "A member of a particular nomadic ethnic minority in Ireland, the Pavee."
+        },
+        {
+            "word": "pilgrim",
+            "definition": "One who travels, especially on a journey to visit sites of religious significance."
+        },
+        {
+            "word": "cosmopolitan",
+            "definition": "A cosmopolitan person; a cosmopolite."
+        },
+        {
+            "word": "traveler",
+            "definition": "A member of a particular nomadic ethnic minority in Ireland, the Pavee."
+        },
+        {
+            "word": "excursion",
+            "definition": "A brief recreational trip; a journey out of the usual way."
+        },
+        {
+            "word": "commute",
+            "definition": "To exchange substantially; to abate but not abolish completely, a penalty, obligation, or payment in return for a great, single thing or an aggregate; to cash in; to lessen"
+        },
+        {
+            "word": "wander",
+            "definition": "The act or instance of wandering."
+        },
+        {
+            "word": "wanderer",
+            "definition": "One who wanders, who travels aimlessly."
+        },
+        {
+            "word": "peregrine",
+            "definition": "The peregrine falcon."
+        },
+        {
+            "word": "roam",
+            "definition": "To wander or travel freely and with no specific destination."
+        },
+        {
+            "word": "itinerant",
+            "definition": "One who travels from place to place."
+        },
+        {
+            "word": "vagabond",
+            "definition": "A person on a trip of indeterminate destination and/or length of time."
+        },
+        {
+            "word": "retrograde",
+            "definition": "Directed backwards, retreating; reverting, especially to an inferior state, declining; inverse, reverse; movement opposite to normal or intended motion, often circular motion."
+        },
+        {
+            "word": "circumnavigation",
+            "definition": "The act of circumnavigating, or sailing round."
+        },
+        {
+            "word": "backpacking",
+            "definition": "To hike and camp overnight in backcountry with one's gear carried in a backpack"
+        },
+        {
+            "word": "wanderlust",
+            "definition": "A strong impulse or longing to travel."
+        },
+        {
+            "word": "outflank",
+            "definition": "To maneuver around and behind the flank of (an opposing force)."
+        },
+        {
+            "word": "sightseer",
+            "definition": "One who goes sightseeing; one who goes around to look at sights or see things of interest; a tourist."
+        },
+        {
+            "word": "trundle",
+            "definition": "A low bed on wheels that can be rolled underneath another bed."
+        },
+        {
+            "word": "jet lag",
+            "definition": "A physical condition caused by crossing time zones during flight; often the result of disruption to the circadian rhythms of the body."
+        },
+        {
+            "word": "slither",
+            "definition": "A limestone rubble."
+        },
+        {
+            "word": "jaunt",
+            "definition": "A wearisome journey."
+        },
+        {
+            "word": "wayfaring",
+            "definition": "To travel; make a journey."
+        },
+        {
+            "word": "trekker",
+            "definition": "One who treks; thus, a hiker."
+        },
+        {
+            "word": "elapse",
+            "definition": "(of time) To pass or move by."
+        },
+        {
+            "word": "fellow traveller",
+            "definition": "One who travels together with another."
+        },
+        {
+            "word": "peregrination",
+            "definition": "A travel or journey, especially by foot, notably by a pilgrim."
+        },
+        {
+            "word": "work",
+            "definition": "(heading) Employment."
+        },
+        {
+            "word": "locomote",
+            "definition": "To move or travel (from one location to another)."
+        },
+        {
+            "word": "live",
+            "definition": "To be alive; to have life."
+        },
+        {
+            "word": "food",
+            "definition": "Any solid substance that can be consumed by living organisms, especially by eating, in order to sustain life."
+        },
+        {
+            "word": "time",
+            "definition": "The inevitable progression into the future with the passing of present and past events."
+        },
+        {
+            "word": "itinerate",
+            "definition": "To travel from place to place, especially to preach or lecture."
+        },
+        {
+            "word": "dining",
+            "definition": "To eat; to eat dinner or supper."
+        },
+        {
+            "word": "peregrinate",
+            "definition": "To travel from place to place, or from one country to another, especially on foot; hence, to sojourn in foreign countries."
+        },
+        {
+            "word": "hotel",
+            "definition": "A large town house or mansion; a grand private residence, especially in France."
+        },
+        {
+            "word": "agency",
+            "definition": "The capacity, condition, or state of acting or of exerting power."
+        },
+        {
+            "word": "distance",
+            "definition": "The amount of space between two points, usually geographical points, usually (but not necessarily) measured along a straight line."
+        },
+        {
+            "word": "lifestyle",
+            "definition": "A style of living that reflects the attitudes and values of a person or group."
+        },
+        {
+            "word": "family",
+            "definition": "A group of people who are closely related to one another (by blood, marriage or adoption); kin; for example, a set of parents and their children; an immediate family."
+        },
+        {
+            "word": "camp",
+            "definition": "An outdoor place acting as temporary accommodation in tents or other temporary structures."
+        },
+        {
+            "word": "personal",
+            "definition": "An advertisement by which individuals attempt to meet others with similar interests."
+        },
+        {
+            "word": "survival",
+            "definition": "The fact or act of surviving; continued existence or life."
+        },
+        {
+            "word": "health",
+            "definition": "The state of being free from physical or psychological disease, illness, or malfunction; wellness."
+        },
+        {
+            "word": "junketeer",
+            "definition": "A junketer."
+        },
+        {
+            "word": "trial",
+            "definition": "An opportunity to test something out; a test."
+        },
+        {
+            "word": "hospitality",
+            "definition": "The act or service of welcoming, receiving, hosting, or entertaining guests."
+        },
+        {
+            "word": "moving",
+            "definition": "To change place or posture; to go, in any manner, from one place or position to another."
+        },
+        {
+            "word": "immigration",
+            "definition": "The act of immigrating; the passing or coming into a country of which one is not native born for the purpose of permanent residence."
+        },
+        {
+            "word": "fun",
+            "definition": "Amusement, enjoyment or pleasure"
+        },
+        {
+            "word": "home",
+            "definition": "A dwelling."
+        }
+    ]
+}
