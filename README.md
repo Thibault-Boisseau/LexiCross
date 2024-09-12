@@ -77,6 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![Home page](https://github.com/Thibault-Boisseau/LexiCross/blob/main/public/image/Capture%20d'%C3%A9cran%202024-09-12%20091824.png)
 
-![Game page](https://github.com/Thibault-Boisseau/LexiCross/blob/main/public/image/Capture%20d'%C3%A9cran%202024-09-12%20091824.png)
+![Game page](https://github.com/Thibault-Boisseau/LexiCross/blob/main/public/image/Capture%20d'%C3%A9cran%202024-09-12%20091842.png)
 
 ![Learn page](https://github.com/Thibault-Boisseau/LexiCross/blob/main/public/image/Capture%20d'%C3%A9cran%202024-09-12%20091907.png)
